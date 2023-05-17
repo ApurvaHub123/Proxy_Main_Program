@@ -2075,3 +2075,28 @@
 11:13:31.139 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4bff7da0
 11:13:37.222 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@1f760b47
 11:13:43.036 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@264f218
+11:27:50.351 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2732006673954461376
+11:27:58.872 [main] INFO  Git_Versioning - Is Using proxy: true
+11:28:00.232 [main] INFO  Git_Versioning - proxy type : HTTP
+11:28:00.232 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.39
+11:28:00.232 [main] INFO  Git_Versioning - proxy port : 3128
+11:28:04.227 [main] INFO  Git_Versioning - Branches Fetched successfully
+11:28:17.371 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: master
+11:28:17.372 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+11:28:17.503 [main] INFO  Git_Versioning - Branch : master checkout & merged
+11:28:17.504 [main] INFO  Git_Versioning - cloning from repository
+11:28:24.104 [main] INFO  Git_Versioning - repository cloned
+11:28:24.107 [main] INFO  Git_Versioning - File write success
+11:28:24.107 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+11:28:24.126 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+11:28:24.133 [main] INFO  Git_Versioning - [SSH.txt]
+11:28:24.154 [main] INFO  Git_Versioning - No change
+11:28:25.043 [main] INFO  Git_Versioning - Commit message: Commit on 17/05/2023 11:28:24 using UNP
+11:28:25.140 [main] INFO  Git_Versioning - Commit Name: abd09c7b649befb58c68eddc92d56ee9bfacd2f7
+11:28:25.140 [main] INFO  Git_Versioning - commit success
+11:28:32.330 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions abd09c7b649befb58c68eddc92d56ee9bfacd2f7, f96e9477ed3b709d6203a34f129a7c40f2f93469 with base f96e9477ed3b709d6203a34f129a7c40f2f93469 using strategy recursive resulted in: Already-up-to-date. }
+11:28:32.331 [main] INFO  Git_Versioning - pulled & merged
+11:28:38.551 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@638ef7ed
+11:28:44.376 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@21d03963
+11:28:50.555 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4c5ae43b
+11:28:56.362 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@81d9a72
