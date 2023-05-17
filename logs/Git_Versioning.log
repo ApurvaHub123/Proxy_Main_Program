@@ -1,0 +1,2050 @@
+12:18:09.372 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5547439020320430879
+12:18:17.978 [main] INFO  Git_Versioning - Is Using proxy: true
+12:18:19.195 [main] INFO  Git_Versioning - proxy type : HTTP
+12:18:19.196 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+12:18:19.196 [main] INFO  Git_Versioning - proxy port : 3128
+12:18:20.512 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:18:23.341 [main] INFO  Git_Versioning - cloning from repository
+12:18:24.825 [main] INFO  Git_Versioning - repository cloned
+12:18:24.843 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+12:18:24.845 [main] INFO  Git_Versioning - File write success
+12:18:24.845 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+12:18:24.881 [main] INFO  Git_Versioning - [SSH.txt]
+12:18:24.897 [main] INFO  Git_Versioning - No change
+12:18:25.492 [main] INFO  Git_Versioning - Commit message: Commit on 09/05/2023 12:18:24 using UNP
+12:18:25.514 [main] INFO  Git_Versioning - Commit Name: 8a3e8501cf4acab8ed95fef2e158757dd277fefd
+12:18:25.514 [main] INFO  Git_Versioning - commit success
+12:18:26.336 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 8a3e8501cf4acab8ed95fef2e158757dd277fefd, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+12:18:26.337 [main] INFO  Git_Versioning - pulled & merged
+12:18:32.281 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@78fa769e
+12:18:38.468 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4e0ae11f
+12:18:44.548 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@76b07f29
+12:18:50.549 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@34129c78
+12:41:48.870 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5333482775483066617
+12:42:55.300 [main] INFO  Git_Versioning - Is Using proxy: true
+12:42:56.290 [main] INFO  Git_Versioning - proxy type : HTTP
+12:42:56.291 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+12:42:56.291 [main] INFO  Git_Versioning - proxy port : 3128
+12:42:57.815 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:43:02.278 [main] INFO  Git_Versioning - cloning from repository
+12:43:03.531 [main] INFO  Git_Versioning - repository cloned
+12:43:03.548 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+12:43:03.550 [main] INFO  Git_Versioning - File write success
+12:43:03.551 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+12:43:03.586 [main] INFO  Git_Versioning - [SSH.txt]
+12:43:03.602 [main] INFO  Git_Versioning - No change
+12:43:05.485 [main] INFO  Git_Versioning - Commit message: Commit on 09/05/2023 12:43:03 using UNP
+12:43:05.507 [main] INFO  Git_Versioning - Commit Name: 27cd31bc27618b664d05402851496d0fd4b43de3
+12:43:05.507 [main] INFO  Git_Versioning - commit success
+12:43:06.163 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 27cd31bc27618b664d05402851496d0fd4b43de3, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+12:43:06.163 [main] INFO  Git_Versioning - pulled & merged
+12:43:12.598 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@78fa769e
+12:43:18.832 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4e0ae11f
+12:43:25.040 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@76b07f29
+12:43:31.325 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@34129c78
+13:20:10.962 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6649187971152778970
+13:20:22.680 [main] INFO  Git_Versioning - Is Using proxy: true
+13:20:23.918 [main] INFO  Git_Versioning - proxy type : HTTP
+13:20:23.918 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+13:20:23.918 [main] INFO  Git_Versioning - proxy port : 3128
+13:20:25.433 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:20:29.872 [main] INFO  Git_Versioning - cloning from repository
+13:20:31.477 [main] INFO  Git_Versioning - repository cloned
+13:20:31.494 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+13:20:31.497 [main] INFO  Git_Versioning - File write success
+13:20:31.497 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+13:20:31.533 [main] INFO  Git_Versioning - [SSH.txt]
+13:20:31.549 [main] INFO  Git_Versioning - No change
+13:20:33.303 [main] INFO  Git_Versioning - Commit message: Commit on 09/05/2023 13:20:31 using UNP
+13:20:33.324 [main] INFO  Git_Versioning - Commit Name: d02ed2d82f71dabfcee9b266887663e8da923762
+13:20:33.324 [main] INFO  Git_Versioning - commit success
+13:20:33.954 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions d02ed2d82f71dabfcee9b266887663e8da923762, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+13:20:33.955 [main] INFO  Git_Versioning - pulled & merged
+13:20:40.042 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@78fa769e
+13:20:46.105 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4e0ae11f
+13:20:52.117 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@76b07f29
+13:20:58.146 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@34129c78
+15:23:04.611 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7712907033371146151
+15:23:13.083 [main] ERROR Git_Versioning - Unable to tunnel through proxy. Proxy returns "HTTP/1.1 407 Proxy Authentication Required"
+15:23:13.084 [main] INFO  Git_Versioning - proxy type : HTTP
+15:23:13.084 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+15:23:13.084 [main] INFO  Git_Versioning - proxy port : 3128
+15:23:13.252 [main] ERROR Git_Versioning - Could not connect using given parameters 
+15:23:13.253 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/Proxy_Repository.git: 407 Proxy Authentication Required
+15:23:42.132 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8273189538616214075
+15:23:49.665 [main] INFO  Git_Versioning - Is Using proxy: true
+15:23:51.126 [main] INFO  Git_Versioning - proxy type : HTTP
+15:23:51.127 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+15:23:51.127 [main] INFO  Git_Versioning - proxy port : 3128
+15:23:53.063 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:23:56.334 [main] INFO  Git_Versioning - cloning from repository
+15:23:58.277 [main] INFO  Git_Versioning - repository cloned
+15:23:58.294 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+15:23:58.297 [main] INFO  Git_Versioning - File write success
+15:23:58.297 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+15:23:58.336 [main] INFO  Git_Versioning - [SSH.txt]
+15:23:58.354 [main] INFO  Git_Versioning - No change
+15:23:59.901 [main] INFO  Git_Versioning - Commit message: Commit on 09/05/2023 15:23:58 using UNP
+15:23:59.923 [main] INFO  Git_Versioning - Commit Name: 493d89f377a29afc06341dc49b7b9d876ae2f6b9
+15:23:59.923 [main] INFO  Git_Versioning - commit success
+15:24:01.013 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 493d89f377a29afc06341dc49b7b9d876ae2f6b9, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+15:24:01.013 [main] INFO  Git_Versioning - pulled & merged
+15:24:08.068 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@78fa769e
+15:24:14.416 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4e0ae11f
+15:24:21.309 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@76b07f29
+15:24:28.068 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@34129c78
+15:39:59.363 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5007266964751842979
+15:40:14.017 [main] INFO  Git_Versioning - Is Using proxy: true
+15:40:15.237 [main] INFO  Git_Versioning - proxy type : HTTP
+15:40:15.237 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+15:40:15.237 [main] INFO  Git_Versioning - proxy port : 3128
+15:40:17.205 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:40:23.426 [main] INFO  Git_Versioning - cloning from repository
+15:40:24.807 [main] INFO  Git_Versioning - repository cloned
+15:40:24.824 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+15:40:24.826 [main] INFO  Git_Versioning - File write success
+15:40:24.826 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+15:40:24.863 [main] INFO  Git_Versioning - [SSH.txt]
+15:40:24.879 [main] INFO  Git_Versioning - No change
+15:40:26.226 [main] INFO  Git_Versioning - Commit message: Commit on 09/05/2023 15:40:24 using UNP
+15:40:26.256 [main] INFO  Git_Versioning - Commit Name: 8e2d84cf647e248a33ba17b9960bdc9d693e8bdc
+15:40:26.257 [main] INFO  Git_Versioning - commit success
+15:40:26.935 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 8e2d84cf647e248a33ba17b9960bdc9d693e8bdc, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+15:40:26.935 [main] INFO  Git_Versioning - pulled & merged
+15:40:33.528 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@78fa769e
+15:40:39.918 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4e0ae11f
+15:40:46.619 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@76b07f29
+15:40:53.010 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@34129c78
+16:03:51.375 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7873397170455171110
+16:04:03.568 [main] INFO  Git_Versioning - Is Using proxy: true
+16:04:04.830 [main] INFO  Git_Versioning - proxy type : HTTP
+16:04:04.830 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+16:04:04.830 [main] INFO  Git_Versioning - proxy port : 3128
+16:04:06.401 [main] INFO  Git_Versioning - Branches Fetched successfully
+16:04:09.851 [main] INFO  Git_Versioning - cloning from repository
+16:04:11.500 [main] INFO  Git_Versioning - repository cloned
+16:04:11.521 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+16:04:11.531 [main] INFO  Git_Versioning - File write success
+16:04:11.531 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+16:04:11.580 [main] INFO  Git_Versioning - [SSH.txt]
+16:04:11.598 [main] INFO  Git_Versioning - No change
+16:04:13.251 [main] INFO  Git_Versioning - Commit message: Commit on 09/05/2023 16:04:11 using UNP
+16:04:13.284 [main] INFO  Git_Versioning - Commit Name: 881e6421a4c63387637fe76eeccc314d78e3a3ce
+16:04:13.284 [main] INFO  Git_Versioning - commit success
+16:04:13.950 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 881e6421a4c63387637fe76eeccc314d78e3a3ce, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+16:04:13.951 [main] INFO  Git_Versioning - pulled & merged
+16:04:20.644 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@78fa769e
+16:04:27.410 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4e0ae11f
+16:04:34.598 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@76b07f29
+16:04:41.223 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@34129c78
+16:19:59.257 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl4684857817301966798
+16:20:06.564 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@57175e74
+16:20:10.670 [main] ERROR Git_Versioning - no protocol: git@github.com:ApurvaHub123/Proxy_Repository.git
+16:20:10.671 [main] ERROR Git_Versioning - Illegal character in scheme name at index 3: git@github.com:ApurvaHub123/Proxy_Repository.git
+16:20:12.361 [main] ERROR Git_Versioning - Could not connect using given parameters 
+16:20:12.361 [main] ERROR Git_Versioning - git@github.com:ApurvaHub123/Proxy_Repository.git: USERAUTH fail
+16:53:34.208 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1295483822253100631
+16:53:48.692 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@57175e74
+16:53:52.158 [main] ERROR Git_Versioning - no protocol: git@github.com:ApurvaHub123/Proxy_Repository.git
+16:53:52.159 [main] ERROR Git_Versioning - Illegal character in scheme name at index 3: git@github.com:ApurvaHub123/Proxy_Repository.git
+16:53:53.567 [main] ERROR Git_Versioning - Could not connect using given parameters 
+16:53:53.567 [main] ERROR Git_Versioning - git@github.com:ApurvaHub123/Proxy_Repository.git: USERAUTH fail
+16:54:12.764 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl4079273393393025146
+16:54:19.126 [main] INFO  Git_Versioning - Is Using proxy: true
+16:54:20.467 [main] INFO  Git_Versioning - proxy type : HTTP
+16:54:20.467 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+16:54:20.467 [main] INFO  Git_Versioning - proxy port : 3128
+16:54:22.428 [main] INFO  Git_Versioning - Branches Fetched successfully
+16:54:27.835 [main] INFO  Git_Versioning - cloning from repository
+16:54:29.751 [main] INFO  Git_Versioning - repository cloned
+16:54:29.769 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: master
+16:54:29.769 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+16:54:29.981 [main] INFO  Git_Versioning - Branch : master checkout & merged
+16:54:29.987 [main] INFO  Git_Versioning - File write success
+16:54:29.987 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+16:54:30.010 [main] INFO  Git_Versioning - [SSH.txt]
+16:54:30.028 [main] INFO  Git_Versioning - No change
+16:54:31.690 [main] INFO  Git_Versioning - Commit message: Commit on 09/05/2023 16:54:29 using UNP
+16:54:31.722 [main] INFO  Git_Versioning - Commit Name: e016d96811807169ce594ba6d1f4ed9d9060eed9
+16:54:31.722 [main] INFO  Git_Versioning - commit success
+16:54:32.434 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@22f59fa
+16:54:40.651 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@6c7a164b
+16:54:49.284 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4bff7da0
+16:54:57.025 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@1f760b47
+16:55:05.453 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@264f218
+16:55:07.602 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8933763441256996406
+16:55:15.104 [main] INFO  Git_Versioning - Is Using proxy: true
+16:55:16.421 [main] INFO  Git_Versioning - proxy type : HTTP
+16:55:16.421 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+16:55:16.421 [main] INFO  Git_Versioning - proxy port : 3128
+16:55:18.126 [main] INFO  Git_Versioning - Branches Fetched successfully
+16:55:27.322 [main] INFO  Git_Versioning - cloning from repository
+16:55:28.672 [main] INFO  Git_Versioning - repository cloned
+16:55:28.677 [main] INFO  Git_Versioning - Old branch: master, New Branch: master
+16:55:28.679 [main] INFO  Git_Versioning - File write success
+16:55:28.679 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+16:55:28.705 [main] INFO  Git_Versioning - [SSH.txt]
+16:55:28.715 [main] INFO  Git_Versioning - No change
+16:55:31.978 [main] INFO  Git_Versioning - Commit message: Commit on 09/05/2023 16:55:28 using UNP
+16:55:32.018 [main] INFO  Git_Versioning - Commit Name: f52e7845c1ec6fee52a4ce1d8b68b293ee67e7ec
+16:55:32.018 [main] INFO  Git_Versioning - commit success
+16:55:32.568 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3b6d844d
+16:55:39.099 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@50029372
+16:55:45.281 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@1a5b6f42
+16:55:51.622 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@45efd90f
+16:55:57.772 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@74287ea3
+18:01:03.078 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3926499719774645369
+18:01:17.435 [main] INFO  Git_Versioning - Is Using proxy: true
+18:01:20.627 [main] INFO  Git_Versioning - proxy type : HTTP
+18:01:20.628 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+18:01:20.628 [main] INFO  Git_Versioning - proxy port : 3128
+18:01:25.235 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:01:30.701 [main] INFO  Git_Versioning - cloning from repository
+18:01:35.365 [main] INFO  Git_Versioning - repository cloned
+18:01:35.381 [main] INFO  Git_Versioning - Old branch: master, New Branch: proxy_branch
+18:01:35.381 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+18:01:35.482 [main] INFO  Git_Versioning - Branch : proxy_branch checkout & merged
+18:01:35.485 [main] INFO  Git_Versioning - File write success
+18:01:35.485 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+18:01:35.505 [main] INFO  Git_Versioning - [SSH.txt]
+18:01:35.520 [main] INFO  Git_Versioning - No change
+18:01:37.749 [main] INFO  Git_Versioning - Commit message: Commit on 09/05/2023 18:01:35 using UNP
+18:01:37.770 [main] INFO  Git_Versioning - Commit Name: 58311f6000411585cf07a75215227dcd9d7d43a2
+18:01:37.770 [main] INFO  Git_Versioning - commit success
+18:01:40.038 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 58311f6000411585cf07a75215227dcd9d7d43a2, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+18:01:40.038 [main] INFO  Git_Versioning - pulled & merged
+18:01:54.145 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@34129c78
+18:02:08.532 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4ef74c30
+18:02:22.400 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@47c81abf
+18:02:34.935 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@1cf56a1c
+18:11:56.586 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6743913119884639933
+18:12:12.020 [main] INFO  Git_Versioning - Is Using proxy: true
+18:12:15.633 [main] INFO  Git_Versioning - proxy type : HTTP
+18:12:15.634 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+18:12:15.634 [main] INFO  Git_Versioning - proxy port : 3128
+18:12:19.846 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:12:25.660 [main] INFO  Git_Versioning - cloning from repository
+18:12:29.849 [main] INFO  Git_Versioning - repository cloned
+18:12:29.866 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+18:12:29.869 [main] INFO  Git_Versioning - File write success
+18:12:29.869 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+18:12:29.908 [main] INFO  Git_Versioning - [SSH.txt]
+18:12:29.925 [main] INFO  Git_Versioning - No change
+18:12:30.939 [main] INFO  Git_Versioning - Commit message: Commit on 09/05/2023 18:12:29 using UNP
+18:12:30.961 [main] INFO  Git_Versioning - Commit Name: f3904b64d4faa6ecb438bcffd3113cf632b4f493
+18:12:30.961 [main] INFO  Git_Versioning - commit success
+18:12:33.909 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions f3904b64d4faa6ecb438bcffd3113cf632b4f493, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+18:12:33.909 [main] INFO  Git_Versioning - pulled & merged
+18:12:46.789 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@78fa769e
+18:13:00.341 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4e0ae11f
+18:13:13.325 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@76b07f29
+18:13:27.905 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@34129c78
+18:13:35.626 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7909028637411568183
+18:13:45.267 [main] ERROR Git_Versioning - Connection refused: connect
+18:13:45.268 [main] INFO  Git_Versioning - proxy type : HTTP
+18:13:45.268 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+18:13:45.268 [main] INFO  Git_Versioning - proxy port : 80
+18:13:48.859 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:13:48.859 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/Proxy_Repository.git: connection failed
+19:23:52.544 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3053937792422942920
+19:24:06.938 [main] INFO  Git_Versioning - Is Using proxy: true
+19:24:08.405 [main] INFO  Git_Versioning - proxy type : HTTP
+19:24:08.405 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+19:24:08.405 [main] INFO  Git_Versioning - proxy port : 3128
+19:24:10.449 [main] INFO  Git_Versioning - Branches Fetched successfully
+19:24:15.602 [main] INFO  Git_Versioning - cloning from repository
+19:24:17.524 [main] INFO  Git_Versioning - repository cloned
+19:24:17.541 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+19:24:17.543 [main] INFO  Git_Versioning - File write success
+19:24:17.543 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+19:24:17.578 [main] INFO  Git_Versioning - [SSH.txt]
+19:24:17.595 [main] INFO  Git_Versioning - No change
+19:24:18.889 [main] INFO  Git_Versioning - Commit message: Commit on 09/05/2023 19:24:17 using UNP
+19:24:18.924 [main] INFO  Git_Versioning - Commit Name: 96b7371aa8c87e09bed41d831486deaef6d8a041
+19:24:18.924 [main] INFO  Git_Versioning - commit success
+19:24:19.842 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 96b7371aa8c87e09bed41d831486deaef6d8a041, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+19:24:19.842 [main] INFO  Git_Versioning - pulled & merged
+19:24:26.748 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@78fa769e
+19:24:33.591 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4e0ae11f
+19:24:40.560 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@76b07f29
+19:24:47.204 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@34129c78
+10:10:02.736 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl9088728896620413569
+10:10:10.548 [main] INFO  Git_Versioning - Is Using proxy: true
+10:10:10.877 [main] INFO  Git_Versioning - proxy type : HTTP
+10:10:10.877 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+10:10:10.877 [main] INFO  Git_Versioning - proxy port : 3128
+10:10:46.778 [main] INFO  Git_Versioning - Branches Fetched successfully
+10:10:52.348 [main] INFO  Git_Versioning - cloning from repository
+10:11:16.168 [main] INFO  Git_Versioning - repository cloned
+10:11:16.184 [main] INFO  Git_Versioning - Old branch: master, New Branch: master
+10:11:16.186 [main] INFO  Git_Versioning - File write success
+10:11:16.186 [main] INFO  Git_Versioning - Sample file created at location: D:\Bitbucket_proxy\SSH.txt
+10:11:16.196 [main] INFO  Git_Versioning - []
+10:11:16.214 [main] INFO  Git_Versioning - No change
+10:11:17.977 [main] INFO  Git_Versioning - Commit message: Commit on 10/05/2023 10:11:16 using UNP
+10:11:18.001 [main] INFO  Git_Versioning - Commit Name: ab6fed36b28feaaffab5aaf16712caaf440d1db7
+10:11:18.001 [main] INFO  Git_Versioning - commit success
+10:11:30.513 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions ab6fed36b28feaaffab5aaf16712caaf440d1db7, 0794a384eb7a8da0afcf626ac4a1ec06130ad1f5 with base 0000000000000000000000000000000000000000 using strategy recursive resulted in: Conflicting. }
+10:11:30.567 [main] INFO  Git_Versioning - pulled & merged
+10:11:51.938 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@5e17553a
+10:12:15.401 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@34b9f960
+10:12:35.935 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@2415fc55
+10:12:57.020 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7ba8c737
+10:24:21.707 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8782648197271804314
+10:24:25.930 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@57175e74
+10:24:30.104 [main] ERROR Git_Versioning - no protocol: git@github.com:ApurvaHub123/Proxy_Repository.git
+10:24:30.104 [main] ERROR Git_Versioning - Illegal character in scheme name at index 3: git@github.com:ApurvaHub123/Proxy_Repository.git
+10:24:31.549 [main] ERROR Git_Versioning - Could not connect using given parameters 
+10:24:31.549 [main] ERROR Git_Versioning - git@github.com:ApurvaHub123/Proxy_Repository.git: USERAUTH fail
+10:24:54.724 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl9000112819299652713
+10:25:01.886 [main] INFO  Git_Versioning - Is Using proxy: true
+10:25:03.074 [main] INFO  Git_Versioning - proxy type : HTTP
+10:25:03.075 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+10:25:03.075 [main] INFO  Git_Versioning - proxy port : 3128
+10:25:04.919 [main] INFO  Git_Versioning - Branches Fetched successfully
+10:25:08.863 [main] INFO  Git_Versioning - cloning from repository
+10:25:10.186 [main] INFO  Git_Versioning - repository cloned
+10:25:10.195 [main] INFO  Git_Versioning - Old branch: master, New Branch: proxy_branch
+10:25:10.195 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+10:25:10.200 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@97e93f1
+10:25:29.386 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3014222536584556242
+10:25:34.341 [main] INFO  Git_Versioning - Is Using proxy: true
+10:25:35.435 [main] INFO  Git_Versioning - proxy type : HTTP
+10:25:35.435 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+10:25:35.435 [main] INFO  Git_Versioning - proxy port : 3128
+10:25:36.796 [main] INFO  Git_Versioning - Branches Fetched successfully
+10:25:39.527 [main] INFO  Git_Versioning - cloning from repository
+10:25:41.253 [main] INFO  Git_Versioning - repository cloned
+10:25:41.259 [main] INFO  Git_Versioning - Old branch: master, New Branch: master
+10:25:41.261 [main] INFO  Git_Versioning - File write success
+10:25:41.261 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+10:25:41.270 [main] INFO  Git_Versioning - []
+10:25:41.287 [main] INFO  Git_Versioning - No change
+10:25:42.497 [main] INFO  Git_Versioning - Commit message: Commit on 10/05/2023 10:25:41 using UNP
+10:25:42.522 [main] INFO  Git_Versioning - Commit Name: a9bd13c91e84345f083c8fdc45cd859bd9aa9011
+10:25:42.522 [main] INFO  Git_Versioning - commit success
+10:25:44.361 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@461ad730
+10:25:50.710 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7f2cfe3f
+10:25:56.830 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7d9f158f
+10:26:03.123 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4a07d605
+10:26:10.429 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@2f01783a
+10:29:08.724 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3253039229826317574
+10:29:14.306 [main] ERROR Git_Versioning - Unable to tunnel through proxy. Proxy returns "HTTP/1.1 407 Proxy Authentication Required"
+10:29:14.308 [main] INFO  Git_Versioning - proxy type : HTTP
+10:29:14.309 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+10:29:14.309 [main] INFO  Git_Versioning - proxy port : 3128
+10:29:15.950 [main] ERROR Git_Versioning - Could not connect using given parameters 
+10:29:15.950 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/Proxy_Repository.git: 407 Proxy Authentication Required
+10:29:22.458 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5026506326336064430
+10:29:29.085 [main] INFO  Git_Versioning - Is Using proxy: true
+10:29:30.284 [main] INFO  Git_Versioning - proxy type : HTTP
+10:29:30.284 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+10:29:30.284 [main] INFO  Git_Versioning - proxy port : 3128
+10:29:31.964 [main] INFO  Git_Versioning - Branches Fetched successfully
+10:29:35.369 [main] INFO  Git_Versioning - cloning from repository
+10:29:37.085 [main] INFO  Git_Versioning - repository cloned
+10:29:37.107 [main] INFO  Git_Versioning - Old branch: master, New Branch: master
+10:29:37.109 [main] INFO  Git_Versioning - File write success
+10:29:37.109 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+10:29:37.147 [main] INFO  Git_Versioning - [SSH.txt]
+10:29:37.160 [main] INFO  Git_Versioning - No change
+10:29:38.393 [main] INFO  Git_Versioning - Commit message: Commit on 10/05/2023 10:29:37 using UNP
+10:29:38.414 [main] INFO  Git_Versioning - Commit Name: ee17d93acfec8dca602022e540b3c621341edd8a
+10:29:38.415 [main] INFO  Git_Versioning - commit success
+10:29:39.025 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions ee17d93acfec8dca602022e540b3c621341edd8a, 57b391c4b0ebfb3ce3d75a7d45fc753d226e206f with base 0000000000000000000000000000000000000000 using strategy recursive resulted in: Merged. }
+10:29:39.026 [main] INFO  Git_Versioning - pulled & merged
+10:29:45.114 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@21d03963
+10:29:51.188 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4c5ae43b
+10:29:57.261 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@81d9a72
+10:30:03.290 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@2ca923bb
+13:16:12.730 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl513281315883896802
+13:16:23.092 [main] INFO  Git_Versioning - Is Using proxy: true
+13:16:24.677 [main] INFO  Git_Versioning - proxy type : HTTP
+13:16:24.678 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+13:16:24.678 [main] INFO  Git_Versioning - proxy port : 3128
+13:16:26.453 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:02:45.308 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3221731369425141484
+15:03:06.488 [main] ERROR Git_Versioning - Remote host terminated the handshake
+15:03:06.492 [main] INFO  Git_Versioning - proxy type : HTTP
+15:03:06.492 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+15:03:06.492 [main] INFO  Git_Versioning - proxy port : 3128
+15:03:08.488 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:03:55.661 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3386043382213383446
+15:04:01.176 [main] INFO  Git_Versioning - Is Using proxy: true
+15:04:02.290 [main] INFO  Git_Versioning - proxy type : HTTP
+15:04:02.291 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+15:04:02.291 [main] INFO  Git_Versioning - proxy port : 3128
+15:04:03.664 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:05:34.882 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7976525654336526164
+15:05:42.015 [main] INFO  Git_Versioning - Is Using proxy: true
+15:05:43.304 [main] INFO  Git_Versioning - proxy type : HTTP
+15:05:43.304 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+15:05:43.304 [main] INFO  Git_Versioning - proxy port : 3128
+15:05:44.913 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:05:55.250 [main] INFO  Git_Versioning - cloning from repository
+15:05:56.918 [main] INFO  Git_Versioning - repository cloned
+15:05:56.936 [main] INFO  Git_Versioning - Old branch: master, New Branch: proxy_branch
+15:05:56.936 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+15:05:56.973 [main] INFO  Git_Versioning - Branch : proxy_branch created
+15:05:56.980 [main] INFO  Git_Versioning - File write success
+15:05:56.980 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+15:05:57.001 [main] INFO  Git_Versioning - [SSH.txt]
+15:05:57.017 [main] INFO  Git_Versioning - No change
+15:05:58.273 [main] INFO  Git_Versioning - Commit message: Commit on 10/05/2023 15:05:56 using UNP
+15:05:58.309 [main] INFO  Git_Versioning - Commit Name: 89a37b42f239f4d5ce5da55367497830b9f8acca
+15:05:58.310 [main] INFO  Git_Versioning - commit success
+15:05:58.894 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 89a37b42f239f4d5ce5da55367497830b9f8acca, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base 57b391c4b0ebfb3ce3d75a7d45fc753d226e206f using strategy recursive resulted in: Conflicting. }
+15:05:58.939 [main] INFO  Git_Versioning - pulled & merged
+15:06:05.579 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7ba8c737
+15:06:15.861 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2441821047450328220
+15:06:22.603 [main] INFO  Git_Versioning - Is Using proxy: true
+15:06:23.832 [main] INFO  Git_Versioning - proxy type : HTTP
+15:06:23.832 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+15:06:23.832 [main] INFO  Git_Versioning - proxy port : 3128
+15:06:25.403 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:06:29.607 [main] INFO  Git_Versioning - cloning from repository
+15:06:30.833 [main] INFO  Git_Versioning - repository cloned
+15:06:30.841 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+15:06:30.844 [main] INFO  Git_Versioning - File write success
+15:06:30.844 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+15:06:30.861 [main] INFO  Git_Versioning - [SSH.txt]
+15:06:30.880 [main] INFO  Git_Versioning - No change
+15:06:32.312 [main] INFO  Git_Versioning - Commit message: Commit on 10/05/2023 15:06:30 using UNP
+15:06:32.337 [main] INFO  Git_Versioning - Commit Name: ad45842422f48b83b5c01c146bdc94ccec3a68a0
+15:06:32.337 [main] INFO  Git_Versioning - commit success
+15:06:33.088 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions ad45842422f48b83b5c01c146bdc94ccec3a68a0, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+15:06:33.088 [main] INFO  Git_Versioning - pulled & merged
+16:35:37.717 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3426283032253637004
+16:35:49.217 [main] INFO  Git_Versioning - Is Using proxy: true
+16:35:50.551 [main] INFO  Git_Versioning - proxy type : HTTP
+16:35:50.551 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+16:35:50.551 [main] INFO  Git_Versioning - proxy port : 3128
+16:35:52.400 [main] INFO  Git_Versioning - Branches Fetched successfully
+16:35:57.533 [main] INFO  Git_Versioning - cloning from repository
+16:35:59.510 [main] INFO  Git_Versioning - repository cloned
+16:35:59.528 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+16:35:59.530 [main] INFO  Git_Versioning - File write success
+16:35:59.530 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+16:35:59.569 [main] INFO  Git_Versioning - [SSH.txt]
+16:35:59.585 [main] INFO  Git_Versioning - No change
+16:36:00.787 [main] INFO  Git_Versioning - Commit message: Commit on 10/05/2023 16:35:59 using UNP
+16:36:00.810 [main] INFO  Git_Versioning - Commit Name: f11409a6eded0127ddd31fb93e16ddd004000855
+16:36:00.810 [main] INFO  Git_Versioning - commit success
+16:36:01.924 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions f11409a6eded0127ddd31fb93e16ddd004000855, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+16:36:01.924 [main] INFO  Git_Versioning - pulled & merged
+16:36:08.827 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4b86805d
+16:36:15.303 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@376a0d86
+16:36:21.866 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@222a59e6
+16:36:28.266 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@638ef7ed
+16:41:13.298 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7718023309408032769
+16:41:23.682 [main] INFO  Git_Versioning - Is Using proxy: true
+16:41:24.761 [main] INFO  Git_Versioning - proxy type : HTTP
+16:41:24.761 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+16:41:24.761 [main] INFO  Git_Versioning - proxy port : 3128
+16:41:26.302 [main] INFO  Git_Versioning - Branches Fetched successfully
+16:41:32.828 [main] INFO  Git_Versioning - cloning from repository
+16:41:33.964 [main] INFO  Git_Versioning - repository cloned
+16:41:33.986 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+16:41:33.988 [main] INFO  Git_Versioning - File write success
+16:41:33.988 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+16:41:34.028 [main] INFO  Git_Versioning - [SSH.txt]
+16:41:34.045 [main] INFO  Git_Versioning - No change
+16:41:34.997 [main] INFO  Git_Versioning - Commit message: Commit on 10/05/2023 16:41:33 using UNP
+16:41:35.020 [main] INFO  Git_Versioning - Commit Name: 93126207dce20aff6d43efb9d485d4850a08c30f
+16:41:35.020 [main] INFO  Git_Versioning - commit success
+16:41:35.595 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 93126207dce20aff6d43efb9d485d4850a08c30f, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+16:41:35.595 [main] INFO  Git_Versioning - pulled & merged
+16:41:41.562 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@79defdc
+16:42:16.014 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4149c063
+16:42:21.954 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@17d919b6
+16:42:28.349 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4c2bb6e0
+16:44:27.450 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3786493421533927100
+16:44:39.269 [main] INFO  Git_Versioning - Is Using proxy: true
+16:44:40.328 [main] INFO  Git_Versioning - proxy type : HTTP
+16:44:40.328 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+16:44:40.328 [main] INFO  Git_Versioning - proxy port : 3128
+16:44:41.881 [main] INFO  Git_Versioning - Branches Fetched successfully
+16:45:00.433 [main] INFO  Git_Versioning - cloning from repository
+16:45:29.439 [main] INFO  Git_Versioning - repository cloned
+16:45:31.509 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+16:45:33.256 [main] INFO  Git_Versioning - File write success
+16:45:33.258 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+16:45:45.951 [main] INFO  Git_Versioning - [SSH.txt]
+16:45:46.861 [main] INFO  Git_Versioning - No change
+16:45:58.163 [main] INFO  Git_Versioning - Commit message: Commit on 10/05/2023 16:45:44 using UNP
+16:45:58.364 [main] INFO  Git_Versioning - Commit Name: 9d3a9721ce6d38af50a65468e472146bb4c79606
+16:45:58.365 [main] INFO  Git_Versioning - commit success
+16:46:09.227 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 9d3a9721ce6d38af50a65468e472146bb4c79606, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+16:46:13.730 [main] INFO  Git_Versioning - pulled & merged
+17:04:24.656 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6045342400341430197
+17:04:39.408 [main] INFO  Git_Versioning - Is Using proxy: true
+17:04:40.472 [main] INFO  Git_Versioning - proxy type : HTTP
+17:04:40.472 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+17:04:40.472 [main] INFO  Git_Versioning - proxy port : 3128
+17:04:41.818 [main] INFO  Git_Versioning - Branches Fetched successfully
+17:04:54.338 [main] INFO  Git_Versioning - cloning from repository
+17:04:55.761 [main] INFO  Git_Versioning - repository cloned
+17:04:55.779 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+17:04:55.781 [main] INFO  Git_Versioning - File write success
+17:04:55.781 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB2\SSH.txt
+17:04:55.821 [main] INFO  Git_Versioning - [SSH.txt]
+17:04:55.839 [main] INFO  Git_Versioning - No change
+17:04:57.818 [main] INFO  Git_Versioning - Commit message: Commit on 10/05/2023 17:04:55 using UNP
+17:04:57.842 [main] INFO  Git_Versioning - Commit Name: b061b825c45afcba880db99657932e209ff67fa8
+17:04:57.842 [main] INFO  Git_Versioning - commit success
+17:04:58.431 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions b061b825c45afcba880db99657932e209ff67fa8, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+17:04:58.432 [main] INFO  Git_Versioning - pulled & merged
+17:05:43.876 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4b2c5e02
+17:05:53.945 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3b5fad2d
+17:06:02.446 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@27912e3
+17:06:10.275 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@791d1f8b
+17:11:30.411 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6933407353279033953
+17:11:39.435 [main] INFO  Git_Versioning - Is Using proxy: true
+17:11:40.543 [main] INFO  Git_Versioning - proxy type : HTTP
+17:11:40.543 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+17:11:40.543 [main] INFO  Git_Versioning - proxy port : 3128
+17:11:41.818 [main] INFO  Git_Versioning - Branches Fetched successfully
+17:11:46.049 [main] INFO  Git_Versioning - cloning from repository
+17:11:47.340 [main] INFO  Git_Versioning - repository cloned
+17:11:47.357 [main] INFO  Git_Versioning - Old branch: master, New Branch: proxy_branch
+17:11:47.357 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+17:11:47.362 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@6b09fb41
+17:12:09.491 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3808479039175542408
+17:12:15.963 [main] INFO  Git_Versioning - Is Using proxy: true
+17:12:17.136 [main] INFO  Git_Versioning - proxy type : HTTP
+17:12:17.137 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+17:12:17.137 [main] INFO  Git_Versioning - proxy port : 3128
+17:12:18.641 [main] INFO  Git_Versioning - Branches Fetched successfully
+17:12:23.073 [main] INFO  Git_Versioning - cloning from repository
+17:12:24.294 [main] INFO  Git_Versioning - repository cloned
+17:12:24.300 [main] INFO  Git_Versioning - Old branch: master, New Branch: master
+17:12:24.302 [main] INFO  Git_Versioning - File write success
+17:12:24.302 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+17:12:24.312 [main] INFO  Git_Versioning - []
+17:12:24.329 [main] INFO  Git_Versioning - No change
+17:12:25.793 [main] INFO  Git_Versioning - Commit message: Commit on 10/05/2023 17:12:24 using UNP
+17:12:25.818 [main] INFO  Git_Versioning - Commit Name: 4f6457c1bf4df6909e2467de4e607e558fbfc0f2
+17:12:25.818 [main] INFO  Git_Versioning - commit success
+17:12:27.218 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 4f6457c1bf4df6909e2467de4e607e558fbfc0f2, 57b391c4b0ebfb3ce3d75a7d45fc753d226e206f with base 0000000000000000000000000000000000000000 using strategy recursive resulted in: Merged. }
+17:12:27.218 [main] INFO  Git_Versioning - pulled & merged
+17:12:33.537 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@b86de0d
+17:12:39.397 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@70e38ce1
+17:12:45.298 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7de62196
+17:12:51.421 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@13d9cbf5
+18:34:08.403 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5147104148978453101
+18:34:17.455 [main] INFO  Git_Versioning - Is Using proxy: true
+18:34:18.821 [main] INFO  Git_Versioning - proxy type : HTTP
+18:34:18.822 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+18:34:18.822 [main] INFO  Git_Versioning - proxy port : 3128
+18:34:20.575 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:34:27.783 [main] INFO  Git_Versioning - cloning from repository
+18:34:29.589 [main] INFO  Git_Versioning - repository cloned
+18:34:29.603 [main] INFO  Git_Versioning - Old branch: master, New Branch: master
+18:34:29.606 [main] INFO  Git_Versioning - File write success
+18:34:29.606 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+18:34:29.643 [main] INFO  Git_Versioning - [SSH.txt]
+18:34:29.660 [main] INFO  Git_Versioning - No change
+18:34:30.453 [main] INFO  Git_Versioning - Commit message: Commit on 10/05/2023 18:34:29 using UNP
+18:34:30.477 [main] INFO  Git_Versioning - Commit Name: 4c29e76b7a24118a3abf6aca6c35872f6150a900
+18:34:30.477 [main] INFO  Git_Versioning - commit success
+18:34:31.205 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 4c29e76b7a24118a3abf6aca6c35872f6150a900, 57b391c4b0ebfb3ce3d75a7d45fc753d226e206f with base 57b391c4b0ebfb3ce3d75a7d45fc753d226e206f using strategy recursive resulted in: Already-up-to-date. }
+18:34:31.205 [main] INFO  Git_Versioning - pulled & merged
+18:34:39.153 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@79defdc
+18:34:47.078 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4149c063
+18:34:55.330 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@17d919b6
+18:35:03.304 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4c2bb6e0
+18:45:00.766 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl4843043890668698911
+18:45:14.629 [main] INFO  Git_Versioning - Is Using proxy: true
+18:45:15.736 [main] INFO  Git_Versioning - proxy type : HTTP
+18:45:15.736 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+18:45:15.736 [main] INFO  Git_Versioning - proxy port : 3128
+18:45:17.039 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:45:20.850 [main] INFO  Git_Versioning - cloning from repository
+18:45:21.932 [main] INFO  Git_Versioning - repository cloned
+18:45:21.949 [main] INFO  Git_Versioning - Old branch: master, New Branch: master
+18:45:21.952 [main] INFO  Git_Versioning - File write success
+18:45:21.952 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+18:45:21.989 [main] INFO  Git_Versioning - [SSH.txt]
+18:45:22.006 [main] INFO  Git_Versioning - No change
+18:45:22.845 [main] INFO  Git_Versioning - Commit message: Commit on 10/05/2023 18:45:21 using UNP
+18:45:22.869 [main] INFO  Git_Versioning - Commit Name: 9867a331d963e2a4875cdfb998ce4fb27ed7bcf1
+18:45:22.869 [main] INFO  Git_Versioning - commit success
+18:45:23.617 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 9867a331d963e2a4875cdfb998ce4fb27ed7bcf1, 57b391c4b0ebfb3ce3d75a7d45fc753d226e206f with base 57b391c4b0ebfb3ce3d75a7d45fc753d226e206f using strategy recursive resulted in: Already-up-to-date. }
+18:45:23.617 [main] INFO  Git_Versioning - pulled & merged
+18:45:29.697 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@22f59fa
+18:45:35.700 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@79defdc
+18:45:41.603 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@5852c06f
+18:45:47.529 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@376a0d86
+19:09:11.039 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8391315543795472300
+19:09:23.549 [main] INFO  Git_Versioning - Is Using proxy: true
+19:09:25.086 [main] INFO  Git_Versioning - proxy type : HTTP
+19:09:25.086 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+19:09:25.086 [main] INFO  Git_Versioning - proxy port : 3128
+19:09:27.178 [main] INFO  Git_Versioning - Branches Fetched successfully
+19:09:30.758 [main] INFO  Git_Versioning - cloning from repository
+19:09:32.510 [main] INFO  Git_Versioning - repository cloned
+19:09:32.527 [main] INFO  Git_Versioning - Old branch: master, New Branch: master
+19:09:32.529 [main] INFO  Git_Versioning - File write success
+19:09:32.529 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+19:09:32.567 [main] INFO  Git_Versioning - [SSH.txt]
+19:09:32.583 [main] INFO  Git_Versioning - No change
+19:09:33.835 [main] INFO  Git_Versioning - Commit message: Commit on 10/05/2023 19:09:32 using UNP
+19:09:33.858 [main] INFO  Git_Versioning - Commit Name: fe0c009a781736fcebd81ca3fd2385bf5f655e69
+19:09:33.858 [main] INFO  Git_Versioning - commit success
+19:09:34.587 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions fe0c009a781736fcebd81ca3fd2385bf5f655e69, 57b391c4b0ebfb3ce3d75a7d45fc753d226e206f with base 57b391c4b0ebfb3ce3d75a7d45fc753d226e206f using strategy recursive resulted in: Already-up-to-date. }
+19:09:34.587 [main] INFO  Git_Versioning - pulled & merged
+19:09:41.057 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@22f59fa
+19:09:47.390 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@79defdc
+19:09:53.524 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@5852c06f
+19:09:59.923 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@376a0d86
+10:25:02.566 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1641429869134908729
+10:26:11.623 [main] ERROR Git_Versioning - Connection refused: connect
+10:26:11.626 [main] INFO  Git_Versioning - proxy type : HTTP
+10:26:11.626 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+10:26:11.627 [main] INFO  Git_Versioning - proxy port : 80
+10:26:14.001 [main] ERROR Git_Versioning - Could not connect using given parameters 
+10:26:14.001 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/Proxy_Repository.git: connection failed
+10:31:40.529 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6548856619998231342
+10:31:47.031 [main] INFO  Git_Versioning - Is Using proxy: true
+10:31:48.480 [main] INFO  Git_Versioning - proxy type : HTTP
+10:31:48.481 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+10:31:48.481 [main] INFO  Git_Versioning - proxy port : 8001
+10:31:50.301 [main] INFO  Git_Versioning - Branches Fetched successfully
+10:31:56.465 [main] INFO  Git_Versioning - cloning from repository
+10:31:57.916 [main] INFO  Git_Versioning - repository cloned
+10:31:57.921 [main] INFO  Git_Versioning - Old branch: master, New Branch: master
+10:31:57.923 [main] INFO  Git_Versioning - File write success
+10:31:57.923 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+10:31:57.933 [main] INFO  Git_Versioning - []
+10:31:57.950 [main] INFO  Git_Versioning - No change
+10:31:59.152 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 10:31:57 using UNP
+10:31:59.179 [main] INFO  Git_Versioning - Commit Name: b130d80bffbe1bc2c237bda45e1e159b343f6021
+10:31:59.179 [main] INFO  Git_Versioning - commit success
+10:32:00.972 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions b130d80bffbe1bc2c237bda45e1e159b343f6021, 57b391c4b0ebfb3ce3d75a7d45fc753d226e206f with base 0000000000000000000000000000000000000000 using strategy recursive resulted in: Merged. }
+10:32:00.973 [main] INFO  Git_Versioning - pulled & merged
+10:32:07.769 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@264f218
+10:32:14.514 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@747f281
+10:32:21.307 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@13df2a8c
+10:32:27.662 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@51bf5add
+10:35:07.383 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2977533596099988731
+10:35:13.305 [main] INFO  Git_Versioning - Is Using proxy: true
+10:35:14.676 [main] INFO  Git_Versioning - proxy type : HTTP
+10:35:14.676 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+10:35:14.676 [main] INFO  Git_Versioning - proxy port : 8001
+10:35:16.425 [main] INFO  Git_Versioning - Branches Fetched successfully
+10:35:21.057 [main] INFO  Git_Versioning - cloning from repository
+10:35:22.369 [main] INFO  Git_Versioning - repository cloned
+10:35:22.375 [main] INFO  Git_Versioning - Old branch: master, New Branch: proxy_branch
+10:35:22.375 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+10:35:22.449 [main] INFO  Git_Versioning - Branch : proxy_branch created
+10:35:22.455 [main] INFO  Git_Versioning - File write success
+10:35:22.455 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+10:35:22.471 [main] INFO  Git_Versioning - [SSH.txt]
+10:35:22.492 [main] INFO  Git_Versioning - No change
+10:35:23.537 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 10:35:22 using UNP
+10:35:23.560 [main] INFO  Git_Versioning - Commit Name: 8c7d345fd5ccd2433ae05d227dd6edc53d7288a8
+10:35:23.560 [main] INFO  Git_Versioning - commit success
+10:35:24.176 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 8c7d345fd5ccd2433ae05d227dd6edc53d7288a8, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base 57b391c4b0ebfb3ce3d75a7d45fc753d226e206f using strategy recursive resulted in: Conflicting. }
+10:35:24.222 [main] INFO  Git_Versioning - pulled & merged
+10:35:30.600 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4bbf6d0e
+10:35:38.288 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@24c22fe
+10:35:44.536 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@16c069df
+10:35:50.807 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@205d38da
+10:57:03.234 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1298804802871298213
+10:57:14.286 [main] INFO  Git_Versioning - Is Using proxy: true
+10:57:15.419 [main] INFO  Git_Versioning - proxy type : HTTP
+10:57:15.419 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+10:57:15.419 [main] INFO  Git_Versioning - proxy port : 8001
+10:57:17.099 [main] INFO  Git_Versioning - Branches Fetched successfully
+10:57:21.910 [main] INFO  Git_Versioning - cloning from repository
+10:57:23.445 [main] INFO  Git_Versioning - repository cloned
+10:57:23.464 [main] INFO  Git_Versioning - Old branch: master, New Branch: proxy_branch
+10:57:23.465 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+10:57:23.590 [main] INFO  Git_Versioning - Merged Conflicting while merging branch - checkout using --theirs stratergy
+10:57:23.648 [main] INFO  Git_Versioning - File write success
+10:57:23.648 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+10:59:48.730 [main] INFO  Git_Versioning - [SSH.txt]
+10:59:48.746 [main] INFO  Git_Versioning - No change
+11:00:00.679 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 10:59:48 using UNP
+11:00:00.697 [main] INFO  Git_Versioning - Commit Name: 6ed85498fbedaff3ec6485fafd48337a48cd4e25
+11:00:00.698 [main] INFO  Git_Versioning - commit success
+11:00:01.563 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 6ed85498fbedaff3ec6485fafd48337a48cd4e25, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+11:00:01.563 [main] INFO  Git_Versioning - pulled & merged
+11:00:07.911 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@52815fa3
+11:00:14.572 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4bd31064
+11:00:21.028 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@11d8ae8b
+11:00:27.282 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@12299890
+11:13:01.538 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5520494686501450612
+11:13:11.863 [main] INFO  Git_Versioning - Branches Fetched successfully
+11:13:19.335 [main] INFO  Git_Versioning - cloning from repository
+11:13:21.050 [main] INFO  Git_Versioning - repository cloned
+11:13:21.073 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+11:13:21.075 [main] INFO  Git_Versioning - File write success
+11:13:21.076 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+11:13:21.115 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+11:13:21.124 [main] INFO  Git_Versioning - [SSH.txt]
+11:13:21.143 [main] INFO  Git_Versioning - No change
+11:13:26.726 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 11:13:21 using UNP
+11:13:26.749 [main] INFO  Git_Versioning - Commit Name: 9724aa3f8727f157a6edcb1025bd1b86396b53d0
+11:13:26.749 [main] INFO  Git_Versioning - commit success
+11:13:27.541 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 9724aa3f8727f157a6edcb1025bd1b86396b53d0, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+11:13:27.541 [main] INFO  Git_Versioning - pulled & merged
+11:13:33.666 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@47caedad
+11:13:39.657 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@126253fd
+11:13:45.867 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@1b919693
+11:13:52.446 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7bbc8656
+11:43:04.856 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1422849871669588354
+11:43:13.677 [main] INFO  Git_Versioning - Is Using proxy: true
+11:43:16.543 [main] INFO  Git_Versioning - proxy type : HTTP
+11:43:16.543 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+11:43:16.543 [main] INFO  Git_Versioning - proxy port : 8001
+11:43:20.703 [main] INFO  Git_Versioning - Branches Fetched successfully
+11:43:24.280 [main] INFO  Git_Versioning - cloning from repository
+11:43:28.112 [main] INFO  Git_Versioning - repository cloned
+11:43:28.137 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: master
+11:43:28.137 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+11:43:28.293 [main] INFO  Git_Versioning - Branch : master checkout & merged
+11:43:28.297 [main] INFO  Git_Versioning - File write success
+11:43:28.297 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+11:43:28.325 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+11:43:28.338 [main] INFO  Git_Versioning - [SSH.txt]
+11:43:28.355 [main] INFO  Git_Versioning - No change
+11:43:31.781 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 11:43:28 using UNP
+11:43:31.802 [main] INFO  Git_Versioning - Commit Name: 4041b1d293c0a013332831a6c192d2ef3c62b333
+11:43:31.802 [main] INFO  Git_Versioning - commit success
+11:43:33.611 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 4041b1d293c0a013332831a6c192d2ef3c62b333, 57b391c4b0ebfb3ce3d75a7d45fc753d226e206f with base 57b391c4b0ebfb3ce3d75a7d45fc753d226e206f using strategy recursive resulted in: Already-up-to-date. }
+11:43:33.611 [main] INFO  Git_Versioning - pulled & merged
+11:43:45.936 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@47c81abf
+11:43:58.455 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@1cf56a1c
+11:44:10.674 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@2e570ded
+11:44:23.643 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4808bc9b
+11:44:31.911 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2809525267423367184
+11:44:44.026 [main] INFO  Git_Versioning - Is Using proxy: true
+11:44:47.137 [main] INFO  Git_Versioning - proxy type : HTTP
+11:44:47.137 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+11:44:47.137 [main] INFO  Git_Versioning - proxy port : 8001
+11:44:51.278 [main] INFO  Git_Versioning - Branches Fetched successfully
+11:44:59.365 [main] INFO  Git_Versioning - cloning from repository
+11:45:03.485 [main] INFO  Git_Versioning - repository cloned
+11:45:03.493 [main] INFO  Git_Versioning - Old branch: master, New Branch: proxy_branch
+11:45:03.493 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+11:45:03.548 [main] INFO  Git_Versioning - Branch : proxy_branch checkout & merged
+11:45:03.550 [main] INFO  Git_Versioning - File write success
+11:45:03.551 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+11:45:03.569 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+11:45:03.577 [main] INFO  Git_Versioning - [SSH.txt]
+11:45:03.590 [main] INFO  Git_Versioning - No change
+11:45:04.588 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 11:45:03 using UNP
+11:45:04.613 [main] INFO  Git_Versioning - Commit Name: fbf6de8286124f4c58c6fd5c2f4f24a646cc7c71
+11:45:04.613 [main] INFO  Git_Versioning - commit success
+11:45:06.441 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions fbf6de8286124f4c58c6fd5c2f4f24a646cc7c71, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+11:45:06.442 [main] INFO  Git_Versioning - pulled & merged
+11:45:40.571 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4bbf6d0e
+12:06:22.471 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1251930134194138984
+12:06:36.593 [main] INFO  Git_Versioning - Is Using proxy: true
+12:06:39.683 [main] INFO  Git_Versioning - proxy type : HTTP
+12:06:39.684 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+12:06:39.684 [main] INFO  Git_Versioning - proxy port : 8001
+12:06:43.583 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:06:48.404 [main] INFO  Git_Versioning - cloning from repository
+12:06:52.250 [main] INFO  Git_Versioning - repository cloned
+12:06:52.273 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+12:06:52.275 [main] INFO  Git_Versioning - File write success
+12:06:52.275 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+12:06:52.313 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+12:06:52.320 [main] INFO  Git_Versioning - [SSH.txt]
+12:06:52.339 [main] INFO  Git_Versioning - No change
+12:06:54.019 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 12:06:52 using UNP
+12:06:54.042 [main] INFO  Git_Versioning - Commit Name: 2f4f0b6317af7b8c9add7ff747dabe0650d69b0f
+12:06:54.042 [main] INFO  Git_Versioning - commit success
+12:06:55.950 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 2f4f0b6317af7b8c9add7ff747dabe0650d69b0f, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+12:06:55.951 [main] INFO  Git_Versioning - pulled & merged
+12:07:08.753 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@18317edc
+12:07:21.274 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@9cb8225
+12:07:34.017 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@53f3bdbd
+12:07:46.321 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3e62d773
+12:08:44.086 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2518488877138135585
+12:08:52.424 [main] INFO  Git_Versioning - Is Using proxy: true
+12:08:55.356 [main] INFO  Git_Versioning - proxy type : HTTP
+12:08:55.356 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+12:08:55.356 [main] INFO  Git_Versioning - proxy port : 8001
+12:08:59.261 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:09:05.275 [main] INFO  Git_Versioning - cloning from repository
+12:09:09.804 [main] INFO  Git_Versioning - repository cloned
+12:09:09.810 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+12:09:09.812 [main] INFO  Git_Versioning - File write success
+12:09:09.812 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+12:09:09.838 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+12:09:09.845 [main] INFO  Git_Versioning - [SSH.txt]
+12:09:09.857 [main] INFO  Git_Versioning - No change
+12:09:10.658 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 12:09:09 using UNP
+12:09:10.682 [main] INFO  Git_Versioning - Commit Name: ee552352da2256513029d31e16968d1bb98772df
+12:09:10.682 [main] INFO  Git_Versioning - commit success
+12:09:11.225 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions ee552352da2256513029d31e16968d1bb98772df, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+12:09:11.225 [main] INFO  Git_Versioning - pulled & merged
+12:09:17.234 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@18317edc
+12:09:23.571 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@9cb8225
+12:09:30.368 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@53f3bdbd
+12:09:36.497 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3e62d773
+12:47:43.684 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8079116838588834566
+12:47:51.003 [main] INFO  Git_Versioning - Is Using proxy: true
+12:47:52.035 [main] INFO  Git_Versioning - proxy type : HTTP
+12:47:52.035 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+12:47:52.035 [main] INFO  Git_Versioning - proxy port : 8001
+12:47:53.663 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:47:57.840 [main] INFO  Git_Versioning - cloning from repository
+12:47:59.144 [main] INFO  Git_Versioning - repository cloned
+12:47:59.162 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+12:47:59.165 [main] INFO  Git_Versioning - File write success
+12:47:59.165 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+12:47:59.203 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+12:47:59.211 [main] INFO  Git_Versioning - [SSH.txt]
+12:47:59.229 [main] INFO  Git_Versioning - No change
+12:48:00.697 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 12:47:59 using UNP
+12:48:00.721 [main] INFO  Git_Versioning - Commit Name: fd76b6aa4e79b73d558385136288efe465972194
+12:48:00.721 [main] INFO  Git_Versioning - commit success
+12:48:01.296 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions fd76b6aa4e79b73d558385136288efe465972194, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+12:48:01.297 [main] INFO  Git_Versioning - pulled & merged
+12:48:31.463 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@2f666ebb
+12:48:44.916 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4bc222e
+12:48:50.990 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@56dc1551
+12:48:57.265 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@19b89d4
+12:51:33.335 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7768116199680642092
+12:51:40.794 [main] INFO  Git_Versioning - Is Using proxy: true
+12:51:41.885 [main] INFO  Git_Versioning - proxy type : HTTP
+12:51:41.885 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+12:51:41.885 [main] INFO  Git_Versioning - proxy port : 8001
+12:51:43.491 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:51:46.953 [main] INFO  Git_Versioning - cloning from repository
+12:51:48.386 [main] INFO  Git_Versioning - repository cloned
+12:51:48.391 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+12:51:48.394 [main] INFO  Git_Versioning - File write success
+12:51:48.394 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+12:51:48.418 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+12:51:48.426 [main] INFO  Git_Versioning - [SSH.txt]
+12:51:48.439 [main] INFO  Git_Versioning - No change
+12:51:49.064 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 12:51:48 using UNP
+12:51:49.090 [main] INFO  Git_Versioning - Commit Name: 6d0bc2c9fb1a493da5aea091d0233209cbc5eba9
+12:51:49.090 [main] INFO  Git_Versioning - commit success
+12:51:49.654 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 6d0bc2c9fb1a493da5aea091d0233209cbc5eba9, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+12:51:49.655 [main] INFO  Git_Versioning - pulled & merged
+12:51:55.921 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@2f666ebb
+12:52:02.185 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4bc222e
+12:52:19.217 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@56dc1551
+12:52:25.923 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@19b89d4
+12:52:54.292 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1664096970040685747
+12:53:00.128 [main] INFO  Git_Versioning - Is Using proxy: true
+12:53:01.354 [main] INFO  Git_Versioning - proxy type : HTTP
+12:53:01.354 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+12:53:01.354 [main] INFO  Git_Versioning - proxy port : 8001
+12:53:02.666 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:53:05.314 [main] INFO  Git_Versioning - cloning from repository
+12:53:06.584 [main] INFO  Git_Versioning - repository cloned
+12:53:06.590 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+12:53:06.592 [main] INFO  Git_Versioning - File write success
+12:53:06.592 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+12:53:06.616 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+12:53:06.623 [main] INFO  Git_Versioning - [SSH.txt]
+12:53:06.639 [main] INFO  Git_Versioning - No change
+12:53:07.304 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 12:53:06 using UNP
+12:53:07.328 [main] INFO  Git_Versioning - Commit Name: 9997580dd00fb288d28726b9ca32d94ac49298c8
+12:53:07.328 [main] INFO  Git_Versioning - commit success
+12:53:07.869 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 9997580dd00fb288d28726b9ca32d94ac49298c8, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+12:53:07.870 [main] INFO  Git_Versioning - pulled & merged
+12:53:14.209 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@18317edc
+12:53:20.046 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@9cb8225
+12:53:25.975 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@53f3bdbd
+12:53:31.947 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3e62d773
+12:59:16.245 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1971036341048433057
+12:59:24.197 [main] INFO  Git_Versioning - Is Using proxy: true
+12:59:26.343 [main] INFO  Git_Versioning - proxy type : HTTP
+12:59:26.343 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+12:59:26.343 [main] INFO  Git_Versioning - proxy port : 8001
+12:59:27.753 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:59:32.658 [main] INFO  Git_Versioning - cloning from repository
+12:59:34.177 [main] INFO  Git_Versioning - repository cloned
+12:59:34.182 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+12:59:34.185 [main] INFO  Git_Versioning - File write success
+12:59:34.185 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+12:59:34.211 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+12:59:34.218 [main] INFO  Git_Versioning - [SSH.txt]
+12:59:34.230 [main] INFO  Git_Versioning - No change
+12:59:35.160 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 12:59:34 using UNP
+12:59:35.185 [main] INFO  Git_Versioning - Commit Name: 6e00a8a0495377ca96a8e0e7d91355cacbb4383c
+12:59:35.185 [main] INFO  Git_Versioning - commit success
+12:59:35.769 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 6e00a8a0495377ca96a8e0e7d91355cacbb4383c, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+12:59:35.769 [main] INFO  Git_Versioning - pulled & merged
+13:01:04.894 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@75c56eb9
+13:01:16.878 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3eb91815
+13:01:23.204 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@43015c69
+13:01:33.011 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl422588260975583717
+13:01:41.803 [main] INFO  Git_Versioning - Is Using proxy: true
+13:01:42.820 [main] INFO  Git_Versioning - proxy type : HTTP
+13:01:42.820 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+13:01:42.820 [main] INFO  Git_Versioning - proxy port : 8001
+13:01:44.176 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:01:47.897 [main] INFO  Git_Versioning - cloning from repository
+13:01:49.127 [main] INFO  Git_Versioning - repository cloned
+13:01:49.133 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+13:01:49.135 [main] INFO  Git_Versioning - File write success
+13:01:49.136 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+13:01:49.162 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+13:01:49.169 [main] INFO  Git_Versioning - [SSH.txt]
+13:01:49.182 [main] INFO  Git_Versioning - No change
+13:01:50.257 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 13:01:49 using UNP
+13:01:50.282 [main] INFO  Git_Versioning - Commit Name: 8858c744ad1e78bad442ba1ebb2d9f84a5a091e8
+13:01:50.282 [main] INFO  Git_Versioning - commit success
+13:01:50.847 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 8858c744ad1e78bad442ba1ebb2d9f84a5a091e8, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+13:01:50.848 [main] INFO  Git_Versioning - pulled & merged
+13:02:46.758 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@57a3e26a
+13:03:01.037 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@5e17553a
+13:03:12.165 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@34b9f960
+13:03:19.703 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@2415fc55
+13:09:32.824 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7395596122352037744
+13:09:42.608 [main] INFO  Git_Versioning - Is Using proxy: true
+13:09:43.630 [main] INFO  Git_Versioning - proxy type : HTTP
+13:09:43.631 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+13:09:43.631 [main] INFO  Git_Versioning - proxy port : 8001
+13:09:44.996 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:09:49.112 [main] INFO  Git_Versioning - cloning from repository
+13:09:50.319 [main] INFO  Git_Versioning - repository cloned
+13:09:50.324 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+13:09:50.327 [main] INFO  Git_Versioning - File write success
+13:09:50.327 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+13:09:50.351 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+13:09:50.358 [main] INFO  Git_Versioning - [SSH.txt]
+13:09:50.370 [main] INFO  Git_Versioning - No change
+13:10:18.024 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 13:09:50 using UNP
+13:10:18.047 [main] INFO  Git_Versioning - Commit Name: 60e927f347b26eccf6c62eceb7069844d41c6f61
+13:10:18.047 [main] INFO  Git_Versioning - commit success
+13:10:18.574 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 60e927f347b26eccf6c62eceb7069844d41c6f61, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+13:10:18.574 [main] INFO  Git_Versioning - pulled & merged
+13:10:24.554 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@5852c06f
+13:10:30.913 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@62656be4
+13:10:37.224 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@6c7a164b
+13:10:48.428 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl4427931295934955092
+13:11:01.476 [main] INFO  Git_Versioning - Is Using proxy: true
+13:11:02.798 [main] INFO  Git_Versioning - proxy type : HTTP
+13:11:02.799 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+13:11:02.799 [main] INFO  Git_Versioning - proxy port : 8001
+13:11:04.571 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:11:08.473 [main] INFO  Git_Versioning - cloning from repository
+13:11:10.692 [main] INFO  Git_Versioning - repository cloned
+13:11:10.698 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+13:11:10.700 [main] INFO  Git_Versioning - File write success
+13:11:10.701 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+13:11:10.725 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+13:11:10.732 [main] INFO  Git_Versioning - [SSH.txt]
+13:11:10.744 [main] INFO  Git_Versioning - No change
+13:11:11.919 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 13:11:10 using UNP
+13:11:11.942 [main] INFO  Git_Versioning - Commit Name: c13e97e234cca36e269ce79c2d26ff59fc8263b7
+13:11:11.942 [main] INFO  Git_Versioning - commit success
+13:11:12.741 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions c13e97e234cca36e269ce79c2d26ff59fc8263b7, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+13:11:12.741 [main] INFO  Git_Versioning - pulled & merged
+13:11:19.308 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@5852c06f
+13:11:25.896 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@62656be4
+13:11:31.978 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@6c7a164b
+13:11:38.463 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4bff7da0
+13:12:40.949 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2093135525848248336
+13:12:48.641 [main] INFO  Git_Versioning - Is Using proxy: true
+13:12:50.002 [main] INFO  Git_Versioning - proxy type : HTTP
+13:12:50.003 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+13:12:50.003 [main] INFO  Git_Versioning - proxy port : 8001
+13:12:51.693 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:12:56.537 [main] INFO  Git_Versioning - cloning from repository
+13:12:58.123 [main] INFO  Git_Versioning - repository cloned
+13:12:58.142 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+13:12:58.145 [main] INFO  Git_Versioning - File write success
+13:12:58.145 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+13:12:58.182 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+13:12:58.190 [main] INFO  Git_Versioning - [SSH.txt]
+13:12:58.207 [main] INFO  Git_Versioning - No change
+13:13:00.879 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 13:12:58 using UNP
+13:13:00.902 [main] INFO  Git_Versioning - Commit Name: 3a4a0e55fb8e836bb0ff9096f30cb367c670819f
+13:13:00.902 [main] INFO  Git_Versioning - commit success
+13:13:01.698 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 3a4a0e55fb8e836bb0ff9096f30cb367c670819f, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+13:13:01.698 [main] INFO  Git_Versioning - pulled & merged
+13:13:09.522 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@5852c06f
+13:13:17.244 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@62656be4
+13:13:24.898 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@6c7a164b
+13:13:32.383 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4bff7da0
+13:20:20.484 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1838403357971489802
+13:20:28.023 [main] ERROR Git_Versioning - Remote host terminated the handshake
+13:20:28.025 [main] INFO  Git_Versioning - proxy type : HTTP
+13:20:28.025 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+13:20:28.025 [main] INFO  Git_Versioning - proxy port : 8001
+13:20:30.007 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:20:50.761 [main] INFO  Git_Versioning - cloning from repository
+13:20:52.068 [main] INFO  Git_Versioning - repository cloned
+13:20:52.074 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+13:20:52.076 [main] INFO  Git_Versioning - File write success
+13:20:52.076 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+13:20:52.102 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+13:20:52.109 [main] INFO  Git_Versioning - [SSH.txt]
+13:20:52.122 [main] INFO  Git_Versioning - No change
+13:20:53.671 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 13:20:52 using UNP
+13:20:53.695 [main] INFO  Git_Versioning - Commit Name: 08c839e2022af45f8ffbdf7e25d939c03a7cc521
+13:20:53.695 [main] INFO  Git_Versioning - commit success
+13:20:54.261 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 08c839e2022af45f8ffbdf7e25d939c03a7cc521, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+13:20:54.261 [main] INFO  Git_Versioning - pulled & merged
+13:21:00.202 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@57db2b13
+13:21:06.528 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@1b919693
+13:21:12.404 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7d3e8655
+13:21:18.496 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@d23e042
+15:10:48.851 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2305825624244457922
+15:11:02.944 [main] INFO  Git_Versioning - Is Using proxy: true
+15:11:04.073 [main] INFO  Git_Versioning - proxy type : HTTP
+15:11:04.074 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+15:11:04.074 [main] INFO  Git_Versioning - proxy port : 8001
+15:11:06.454 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:11:13.632 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7815333829674548124
+15:12:02.434 [main] INFO  Git_Versioning - Is Using proxy: true
+15:27:36.441 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8936386639154314560
+15:29:13.442 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8696658703793902577
+15:30:58.373 [main] ERROR Git_Versioning - Connect timed out
+15:30:58.376 [main] INFO  Git_Versioning - proxy type : HTTP
+15:30:58.376 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+15:30:58.377 [main] INFO  Git_Versioning - proxy port : 8001
+15:31:00.490 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:34:06.665 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl4556035533948210158
+15:34:13.769 [main] INFO  Git_Versioning - Is Using proxy: true
+15:34:15.018 [main] INFO  Git_Versioning - proxy type : HTTP
+15:34:15.018 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+15:34:15.019 [main] INFO  Git_Versioning - proxy port : 8001
+15:34:16.393 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:34:28.066 [main] INFO  Git_Versioning - cloning from repository
+15:34:29.668 [main] INFO  Git_Versioning - repository cloned
+15:34:29.686 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+15:34:29.689 [main] INFO  Git_Versioning - File write success
+15:34:29.689 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+15:34:29.726 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+15:34:29.733 [main] INFO  Git_Versioning - [SSH.txt]
+15:34:29.750 [main] INFO  Git_Versioning - No change
+15:34:30.794 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 15:34:29 using UNP
+15:34:30.817 [main] INFO  Git_Versioning - Commit Name: 5542a8dfab06b0d7074f9313fb18aa390f399b4a
+15:34:30.818 [main] INFO  Git_Versioning - commit success
+15:34:31.466 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 5542a8dfab06b0d7074f9313fb18aa390f399b4a, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+15:34:31.466 [main] INFO  Git_Versioning - pulled & merged
+15:34:37.485 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@9cb8225
+15:34:43.617 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@53f3bdbd
+15:34:49.874 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3e62d773
+15:34:55.720 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@536dbea0
+15:38:32.831 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl432928170752870360
+15:38:39.240 [main] INFO  Git_Versioning - Is Using proxy: true
+15:38:40.264 [main] INFO  Git_Versioning - proxy type : HTTP
+15:38:40.264 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+15:38:40.264 [main] INFO  Git_Versioning - proxy port : 443
+15:38:42.183 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:38:47.411 [main] INFO  Git_Versioning - cloning from repository
+15:38:49.054 [main] INFO  Git_Versioning - repository cloned
+15:38:49.060 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+15:38:49.062 [main] INFO  Git_Versioning - File write success
+15:38:49.062 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+15:38:49.086 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+15:38:49.093 [main] INFO  Git_Versioning - [SSH.txt]
+15:38:49.106 [main] INFO  Git_Versioning - No change
+15:38:49.832 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 15:38:49 using UNP
+15:38:49.855 [main] INFO  Git_Versioning - Commit Name: d1a2b763a7cc2df02451342b410a823d35fed9c1
+15:38:49.856 [main] INFO  Git_Versioning - commit success
+15:38:50.660 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions d1a2b763a7cc2df02451342b410a823d35fed9c1, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+15:38:50.661 [main] INFO  Git_Versioning - pulled & merged
+15:38:56.638 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@9cb8225
+15:39:02.511 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@53f3bdbd
+15:39:09.375 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3e62d773
+15:39:15.611 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@536dbea0
+15:46:45.933 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1901127348754138027
+15:46:53.945 [main] ERROR Git_Versioning - Connection refused: connect
+15:46:53.948 [main] INFO  Git_Versioning - proxy type : HTTP
+15:46:53.949 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+15:46:53.949 [main] INFO  Git_Versioning - proxy port : 8001
+15:46:56.238 [main] ERROR Git_Versioning - Could not connect using given parameters 
+15:46:56.238 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/ProxyRepository.git: connection failed
+15:48:09.934 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl4241421105444387688
+15:48:16.380 [main] INFO  Git_Versioning - Is Using proxy: true
+15:48:16.433 [main] INFO  Git_Versioning - proxy type : HTTP
+15:48:16.433 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+15:48:16.433 [main] INFO  Git_Versioning - proxy port : 8001
+15:48:16.796 [main] ERROR Git_Versioning - Could not connect using given parameters 
+15:48:16.797 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/ProxyRepository.git: git-upload-pack not permitted on 'https://github.com/ApurvaHub123/ProxyRepository.git/'
+15:53:15.699 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8854450983954429592
+15:53:26.227 [main] INFO  Git_Versioning - Is Using proxy: true
+15:53:26.279 [main] INFO  Git_Versioning - proxy type : HTTP
+15:53:26.279 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+15:53:26.279 [main] INFO  Git_Versioning - proxy port : 8001
+15:53:26.663 [main] ERROR Git_Versioning - Could not connect using given parameters 
+15:53:26.663 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/ProxyRepository.git: git-upload-pack not permitted on 'https://github.com/ApurvaHub123/ProxyRepository.git/'
+15:55:36.353 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3159016650721042371
+15:55:47.696 [main] INFO  Git_Versioning - Is Using proxy: true
+15:55:49.053 [main] INFO  Git_Versioning - proxy type : HTTP
+15:55:49.053 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+15:55:49.054 [main] INFO  Git_Versioning - proxy port : 8001
+15:55:50.430 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:56:01.536 [main] INFO  Git_Versioning - cloning from repository
+15:56:03.530 [main] INFO  Git_Versioning - repository cloned
+15:56:03.548 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+15:56:03.551 [main] INFO  Git_Versioning - File write success
+15:56:03.551 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+15:56:03.587 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+15:56:03.595 [main] INFO  Git_Versioning - [SSH.txt]
+15:56:03.612 [main] INFO  Git_Versioning - No change
+15:56:04.319 [main] INFO  Git_Versioning - Commit message: Commit on 11/05/2023 15:56:03 using UNP
+15:56:04.346 [main] INFO  Git_Versioning - Commit Name: 6a50f0813535acead7f846bbf3b823ea9b541aee
+15:56:04.346 [main] INFO  Git_Versioning - commit success
+15:56:05.237 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 6a50f0813535acead7f846bbf3b823ea9b541aee, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base be99b9b57fec94697305c6ba31bd9b71832c56e6 using strategy recursive resulted in: Already-up-to-date. }
+15:56:05.237 [main] INFO  Git_Versioning - pulled & merged
+15:56:11.653 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@9cb8225
+15:56:17.795 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@53f3bdbd
+15:56:23.698 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3e62d773
+15:56:29.911 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@536dbea0
+16:32:09.904 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl557134106119164516
+16:32:18.924 [main] INFO  Git_Versioning - Is Using proxy: true
+16:32:19.971 [main] INFO  Git_Versioning - proxy type : HTTP
+16:32:19.972 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+16:32:19.972 [main] INFO  Git_Versioning - proxy port : 8001
+16:32:21.336 [main] INFO  Git_Versioning - Branches Fetched successfully
+17:00:16.501 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1899274237744204045
+17:00:23.200 [main] INFO  Git_Versioning - Is Using proxy: true
+17:00:24.273 [main] INFO  Git_Versioning - proxy type : HTTP
+17:00:24.273 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+17:00:24.273 [main] INFO  Git_Versioning - proxy port : 8001
+17:00:25.655 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:32:03.350 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7116458204689965728
+18:33:08.352 [main] INFO  Git_Versioning - Is Using proxy: true
+18:34:14.289 [main] INFO  Git_Versioning - proxy type : HTTP
+18:34:14.289 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+18:34:14.290 [main] INFO  Git_Versioning - proxy port : 8001
+18:34:16.033 [main] INFO  Git_Versioning - Branches Fetched successfully
+19:23:41.367 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5384560661499846475
+19:24:38.483 [main] ERROR Git_Versioning - Unexpected end of file from server
+19:24:38.484 [main] INFO  Git_Versioning - proxy type : HTTP
+19:24:38.484 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+19:24:38.484 [main] INFO  Git_Versioning - proxy port : 8002
+19:27:22.106 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5431390826953519147
+19:38:14.881 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl263184155171846600
+19:40:26.759 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7247207350867008482
+19:47:08.112 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5087150699028580633
+19:47:26.570 [main] ERROR Git_Versioning - Connection reset
+19:47:26.571 [main] INFO  Git_Versioning - proxy type : HTTP
+19:47:26.571 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+19:47:26.571 [main] INFO  Git_Versioning - proxy port : 8002
+19:47:28.915 [main] ERROR Git_Versioning - Could not connect using given parameters 
+19:47:28.915 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/ProxyRepository.git: connection failed
+19:48:57.182 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6050589426474932529
+19:49:06.934 [main] ERROR Git_Versioning - Unexpected end of file from server
+19:49:06.935 [main] INFO  Git_Versioning - proxy type : HTTP
+19:49:06.935 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+19:49:06.935 [main] INFO  Git_Versioning - proxy port : 8002
+10:22:07.874 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl559012608330336923
+10:23:32.880 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1969234144324525278
+10:23:40.197 [main] ERROR Git_Versioning - No appropriate protocol (protocol is disabled or cipher suites are inappropriate)
+10:23:40.198 [main] INFO  Git_Versioning - proxy type : HTTP
+10:23:40.198 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+10:23:40.198 [main] INFO  Git_Versioning - proxy port : 8001
+10:23:40.400 [main] ERROR Git_Versioning - Could not connect using given parameters 
+10:23:40.400 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/ProxyRepository.git: Secure connection to https://github.com/ApurvaHub123/ProxyRepository.git could not be established because of SSL problems
+10:24:34.803 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6936263419182085535
+10:24:42.713 [main] ERROR Git_Versioning - Remote host terminated the handshake
+10:24:42.714 [main] INFO  Git_Versioning - proxy type : HTTP
+10:24:42.714 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+10:24:42.714 [main] INFO  Git_Versioning - proxy port : 8001
+10:24:42.950 [main] ERROR Git_Versioning - Could not connect using given parameters 
+10:24:42.950 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/ProxyRepository.git: Secure connection to https://github.com/ApurvaHub123/ProxyRepository.git could not be established because of SSL problems
+10:29:26.042 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8513120225276207038
+10:40:12.744 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl9158605352335025949
+10:42:17.389 [main] ERROR Git_Versioning - Remote host terminated the handshake
+10:42:22.882 [main] INFO  Git_Versioning - proxy type : HTTP
+10:42:22.883 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+10:42:22.883 [main] INFO  Git_Versioning - proxy port : 8001
+10:42:23.149 [main] ERROR Git_Versioning - Could not connect using given parameters 
+10:42:23.149 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/ProxyRepository.git: Secure connection to https://github.com/ApurvaHub123/ProxyRepository.git could not be established because of SSL problems
+10:45:10.482 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6436832010779889180
+10:45:20.354 [main] ERROR Git_Versioning - Remote host terminated the handshake
+10:45:20.355 [main] INFO  Git_Versioning - proxy type : HTTP
+10:45:20.355 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+10:45:20.355 [main] INFO  Git_Versioning - proxy port : 8001
+10:45:20.593 [main] ERROR Git_Versioning - Could not connect using given parameters 
+10:45:20.593 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/ProxyRepository.git: Secure connection to https://github.com/ApurvaHub123/ProxyRepository.git could not be established because of SSL problems
+10:47:45.289 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl4735373087419905384
+10:47:51.091 [main] INFO  Git_Versioning - Branches Fetched successfully
+10:47:57.841 [main] INFO  Git_Versioning - cloning from repository
+10:47:58.772 [main] INFO  Git_Versioning - repository cloned
+10:47:58.790 [main] INFO  Git_Versioning - Old branch: master, New Branch: proxy_branch
+10:47:58.790 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+10:47:58.822 [main] INFO  Git_Versioning - Branch : proxy_branch created
+10:47:58.828 [main] INFO  Git_Versioning - File write success
+10:47:58.828 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+10:47:58.840 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+10:47:58.845 [main] INFO  Git_Versioning - [SSH.txt]
+10:47:58.867 [main] INFO  Git_Versioning - No change
+10:48:00.118 [main] INFO  Git_Versioning - Commit message: Commit on 12/05/2023 10:47:58 using UNP
+10:48:00.142 [main] INFO  Git_Versioning - Commit Name: 356a70bc93fb60e29c6f43f4ea684268d2f8d049
+10:48:00.142 [main] INFO  Git_Versioning - commit success
+10:48:01.096 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 356a70bc93fb60e29c6f43f4ea684268d2f8d049, be99b9b57fec94697305c6ba31bd9b71832c56e6 with base 0000000000000000000000000000000000000000 using strategy recursive resulted in: Conflicting. }
+10:48:01.142 [main] INFO  Git_Versioning - pulled & merged
+10:48:02.639 [main] INFO  Git_Versioning - PushResult: org.eclipse.jgit.transport.PushResult@72d6b3ba
+10:48:02.639 [main] INFO  Git_Versioning - push success
+11:10:55.560 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5964003565146375088
+11:11:07.048 [main] INFO  Git_Versioning - Is Using proxy: true
+11:11:08.590 [main] INFO  Git_Versioning - proxy type : HTTP
+11:11:08.590 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+11:11:08.590 [main] INFO  Git_Versioning - proxy port : 8001
+11:11:10.433 [main] INFO  Git_Versioning - Branches Fetched successfully
+11:11:22.561 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1351392029840996954
+11:12:00.495 [main] INFO  Git_Versioning - Is Using proxy: true
+11:13:12.034 [main] INFO  Git_Versioning - proxy type : HTTP
+11:13:12.034 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+11:13:12.035 [main] INFO  Git_Versioning - proxy port : 8001
+11:29:12.305 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl4635547087200901796
+11:29:24.857 [main] INFO  Git_Versioning - Branches Fetched successfully
+11:29:29.191 [main] INFO  Git_Versioning - cloning from repository
+11:29:30.138 [main] INFO  Git_Versioning - repository cloned
+11:29:30.140 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@35dab4eb
+11:29:30.141 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3ba987b8
+11:29:30.143 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@72cc7e6f
+11:29:30.144 [main] INFO  Git_Versioning - Commit Name: 
+11:29:30.144 [main] INFO  Git_Versioning - commit success
+11:29:31.005 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 0000000000000000000000000000000000000000, 43bb77501f3396a008738c06102bd8cb9deb5235 with base 43bb77501f3396a008738c06102bd8cb9deb5235 using strategy recursive resulted in: Fast-forward. }
+11:29:31.005 [main] INFO  Git_Versioning - pulled & merged
+11:29:32.432 [main] INFO  Git_Versioning - PushResult: org.eclipse.jgit.transport.PushResult@5c7933ad
+11:29:32.433 [main] INFO  Git_Versioning - push success
+11:42:06.182 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2626141278299251079
+11:42:15.155 [main] INFO  Git_Versioning - Is Using proxy: true
+11:42:16.869 [main] INFO  Git_Versioning - proxy type : HTTP
+11:42:16.869 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+11:42:16.870 [main] INFO  Git_Versioning - proxy port : 8001
+11:42:18.602 [main] INFO  Git_Versioning - Branches Fetched successfully
+11:43:24.445 [main] INFO  Git_Versioning - cloning from repository
+11:43:25.996 [main] INFO  Git_Versioning - repository cloned
+11:43:26.007 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+11:43:26.009 [main] INFO  Git_Versioning - File write success
+11:43:26.009 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+11:43:26.036 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+11:43:26.042 [main] INFO  Git_Versioning - [SSH.txt]
+11:43:26.072 [main] INFO  Git_Versioning - No change
+11:43:26.941 [main] INFO  Git_Versioning - Commit message: Commit on 12/05/2023 11:43:26 using UNP
+11:43:26.965 [main] INFO  Git_Versioning - Commit Name: af04b897fd322683fb6af5f5bd9af5fbb505fde1
+11:43:26.965 [main] INFO  Git_Versioning - commit success
+11:43:27.537 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions af04b897fd322683fb6af5f5bd9af5fbb505fde1, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+11:43:27.538 [main] INFO  Git_Versioning - pulled & merged
+11:43:33.867 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@62656be4
+11:43:40.326 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@6c7a164b
+11:43:46.391 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4bff7da0
+11:43:52.701 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@1f760b47
+12:02:35.938 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1189342258220762009
+12:03:09.774 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:04:36.606 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6652080809359820676
+12:04:48.647 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:05:03.461 [main] INFO  Git_Versioning - cloning from repository
+12:05:04.689 [main] INFO  Git_Versioning - repository cloned
+12:05:04.707 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+12:05:04.709 [main] INFO  Git_Versioning - File write success
+12:05:04.709 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+12:05:04.745 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+12:05:04.752 [main] INFO  Git_Versioning - [SSH.txt]
+12:05:04.772 [main] INFO  Git_Versioning - No change
+12:05:25.526 [main] INFO  Git_Versioning - Commit message: its doneusing UNP
+12:05:25.548 [main] INFO  Git_Versioning - Commit Name: b5d4032eb1e1e3a6d88e450a5ef2b8c44e1cdbf6
+12:05:25.548 [main] INFO  Git_Versioning - commit success
+12:05:26.124 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions b5d4032eb1e1e3a6d88e450a5ef2b8c44e1cdbf6, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+12:05:26.125 [main] INFO  Git_Versioning - pulled & merged
+12:05:32.228 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@5852c06f
+12:05:38.342 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@53f3bdbd
+12:05:44.626 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3e62d773
+12:05:50.600 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@536dbea0
+13:30:46.182 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl4178955099427440725
+13:30:59.944 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:31:22.406 [main] INFO  Git_Versioning - cloning from repository
+13:31:23.901 [main] INFO  Git_Versioning - repository cloned
+13:31:23.907 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+13:31:23.909 [main] INFO  Git_Versioning - File write success
+13:31:23.909 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+13:31:23.945 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+13:31:23.952 [main] INFO  Git_Versioning - [SSH.txt]
+13:31:23.973 [main] INFO  Git_Versioning - No change
+13:31:25.263 [main] INFO  Git_Versioning - Commit message: Commit on 12/05/2023 13:31:23 using UNP
+13:31:25.303 [main] INFO  Git_Versioning - Commit Name: cad80693a178d823c85d62d13a4954497d39be2b
+13:31:25.304 [main] INFO  Git_Versioning - commit success
+13:31:25.932 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions cad80693a178d823c85d62d13a4954497d39be2b, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+13:31:25.933 [main] INFO  Git_Versioning - pulled & merged
+13:31:32.067 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@64e7619d
+15:30:27.325 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5122080830815379731
+15:30:44.911 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:30:57.723 [main] INFO  Git_Versioning - cloning from repository
+15:30:59.375 [main] INFO  Git_Versioning - repository cloned
+15:30:59.386 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+15:30:59.389 [main] INFO  Git_Versioning - File write success
+15:30:59.389 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+15:30:59.459 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+15:30:59.468 [main] INFO  Git_Versioning - [SSH.txt]
+15:30:59.488 [main] INFO  Git_Versioning - No change
+15:31:00.489 [main] INFO  Git_Versioning - Commit message: Commit on 12/05/2023 15:30:59 using UNP
+15:31:00.533 [main] INFO  Git_Versioning - Commit Name: 5b0d38230c0d9a97856b802fe328ee9c55776dff
+15:31:00.533 [main] INFO  Git_Versioning - commit success
+15:31:01.680 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 5b0d38230c0d9a97856b802fe328ee9c55776dff, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+15:31:01.680 [main] INFO  Git_Versioning - pulled & merged
+15:31:09.926 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4b86805d
+15:31:18.131 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@376a0d86
+15:32:30.794 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1473937467877638052
+15:32:35.882 [main] ERROR Git_Versioning - unknown protocol: git
+15:32:35.883 [main] INFO  Git_Versioning - proxy type : DIRECT
+15:32:35.883 [main] INFO  Git_Versioning - No Proxy
+15:32:37.612 [main] INFO  Git_Versioning - Branches Fetched successfully
+16:36:35.253 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl9031851142661481139
+16:36:42.144 [main] ERROR Git_Versioning - unknown protocol: git
+16:36:42.145 [main] INFO  Git_Versioning - proxy type : DIRECT
+16:36:42.145 [main] INFO  Git_Versioning - No Proxy
+16:36:43.956 [main] ERROR Git_Versioning - Could not connect using given parameters 
+16:36:43.956 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+16:37:13.557 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2215706434867234194
+16:37:19.711 [main] INFO  Git_Versioning - Is Using proxy: true
+16:37:20.999 [main] INFO  Git_Versioning - proxy type : HTTP
+16:37:20.999 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+16:37:20.999 [main] INFO  Git_Versioning - proxy port : 8001
+16:37:22.673 [main] INFO  Git_Versioning - Branches Fetched successfully
+16:37:26.769 [main] INFO  Git_Versioning - cloning from repository
+16:37:28.041 [main] INFO  Git_Versioning - repository cloned
+16:37:28.062 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+16:37:28.064 [main] INFO  Git_Versioning - File write success
+16:37:28.064 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+16:37:28.103 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+16:37:28.111 [main] INFO  Git_Versioning - [SSH.txt]
+16:37:28.132 [main] INFO  Git_Versioning - No change
+16:37:29.202 [main] INFO  Git_Versioning - Commit message: Commit on 12/05/2023 16:37:28 using UNP
+16:37:29.226 [main] INFO  Git_Versioning - Commit Name: 051c6fbbcec761374b5fbb3d8cea70cdee656575
+16:37:29.226 [main] INFO  Git_Versioning - commit success
+16:37:29.854 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 051c6fbbcec761374b5fbb3d8cea70cdee656575, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+16:37:29.854 [main] INFO  Git_Versioning - pulled & merged
+16:37:36.053 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4ef74c30
+16:37:42.300 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@47c81abf
+16:44:18.920 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3231056588094293143
+16:44:25.787 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@229d10bd
+16:47:35.018 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl4670941624977968192
+16:47:42.274 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@229d10bd
+16:47:59.700 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3384638779953607972
+16:48:05.792 [main] INFO  Git_Versioning - Is Using proxy: true
+16:48:07.138 [main] INFO  Git_Versioning - proxy type : HTTP
+16:48:07.138 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+16:48:07.138 [main] INFO  Git_Versioning - proxy port : 8001
+16:48:08.600 [main] INFO  Git_Versioning - Branches Fetched successfully
+11:46:24.818 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3007481117185664865
+11:46:33.460 [main] INFO  Git_Versioning - Is Using proxy: true
+11:46:34.760 [main] INFO  Git_Versioning - proxy type : HTTP
+11:46:34.761 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+11:46:34.761 [main] INFO  Git_Versioning - proxy port : 8001
+11:46:36.995 [main] INFO  Git_Versioning - Branches Fetched successfully
+11:46:39.550 [main] INFO  Git_Versioning - cloning from repository
+11:46:41.383 [main] INFO  Git_Versioning - repository cloned
+11:46:41.416 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: master
+11:46:41.417 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+11:46:41.574 [main] INFO  Git_Versioning - Branch : master checkout & merged
+11:46:41.581 [main] INFO  Git_Versioning - File write success
+11:46:41.581 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+11:46:41.609 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+11:46:41.618 [main] INFO  Git_Versioning - [SSH.txt]
+11:46:41.636 [main] INFO  Git_Versioning - No change
+11:46:42.434 [main] INFO  Git_Versioning - Commit message: Commit on 15/05/2023 11:46:41 using UNP
+11:46:42.468 [main] INFO  Git_Versioning - Commit Name: fa7bcebe590b23a1c1f548c8a5ff4f237acb7973
+11:46:42.468 [main] INFO  Git_Versioning - commit success
+11:46:44.567 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions fa7bcebe590b23a1c1f548c8a5ff4f237acb7973, f96e9477ed3b709d6203a34f129a7c40f2f93469 with base 0000000000000000000000000000000000000000 using strategy recursive resulted in: Merged. }
+11:46:44.567 [main] INFO  Git_Versioning - pulled & merged
+11:46:50.746 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@dc9876b
+11:46:57.460 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4bc222e
+11:47:03.924 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@56dc1551
+11:47:10.397 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@19b89d4
+12:21:23.678 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1478013044320506781
+12:21:33.602 [main] INFO  Git_Versioning - Is Using proxy: true
+12:21:34.870 [main] INFO  Git_Versioning - proxy type : HTTP
+12:21:34.871 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+12:21:34.871 [main] INFO  Git_Versioning - proxy port : 8001
+12:21:36.218 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:32:37.630 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1558254636277895517
+12:34:01.180 [main] INFO  Git_Versioning - Is Using proxy: true
+12:34:08.438 [main] ERROR Git_Versioning - Remote host terminated the handshake
+12:34:08.442 [main] INFO  Git_Versioning - proxy type : HTTP
+12:34:08.442 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+12:34:08.442 [main] INFO  Git_Versioning - proxy port : 8001
+12:34:10.678 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:35:20.945 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7822145521532119307
+12:35:38.653 [main] INFO  Git_Versioning - Is Using proxy: true
+12:51:49.257 [main] INFO  Git_Versioning - Is Using proxy: true
+12:51:49.584 [main] INFO  Git_Versioning - proxy type : HTTP
+12:51:49.585 [main] INFO  Git_Versioning - proxy hostname : squidproxy
+12:51:49.585 [main] INFO  Git_Versioning - proxy port : 8001
+12:51:51.307 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:03:08.388 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7307085574231518946
+13:03:37.606 [main] INFO  Git_Versioning - Is Using proxy: true
+13:03:54.553 [main] INFO  Git_Versioning - proxy type : HTTP
+13:03:54.553 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.38
+13:03:54.553 [main] INFO  Git_Versioning - proxy port : 3128
+13:03:55.970 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:28:15.348 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5704511827360294094
+15:28:31.560 [main] INFO  Git_Versioning - Is Using proxy: true
+15:28:52.179 [main] INFO  Git_Versioning - proxy type : HTTP
+15:28:52.180 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.38
+15:28:52.180 [main] INFO  Git_Versioning - proxy port : 3128
+15:28:53.900 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:48:01.784 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2138077770678540795
+15:48:17.032 [main] INFO  Git_Versioning - Is Using proxy: true
+15:54:42.811 [main] INFO  Git_Versioning - proxy type : HTTP
+15:54:42.812 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.38
+15:54:42.812 [main] INFO  Git_Versioning - proxy port : 3128
+15:54:45.849 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:55:02.392 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5813710161840644535
+15:55:09.720 [main] INFO  Git_Versioning - Is Using proxy: true
+15:55:11.803 [main] INFO  Git_Versioning - proxy type : HTTP
+15:55:11.804 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.38
+15:55:11.804 [main] INFO  Git_Versioning - proxy port : 3128
+15:55:14.764 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:55:46.646 [main] INFO  Git_Versioning - cloning from repository
+15:55:49.167 [main] INFO  Git_Versioning - repository cloned
+15:55:49.186 [main] INFO  Git_Versioning - Old branch: master, New Branch: master
+15:55:49.189 [main] INFO  Git_Versioning - File write success
+15:55:49.190 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+15:55:49.223 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+15:55:49.230 [main] INFO  Git_Versioning - [SSH.txt]
+15:55:49.265 [main] INFO  Git_Versioning - No change
+15:55:50.278 [main] INFO  Git_Versioning - Commit message: Commit on 15/05/2023 15:55:49 using UNP
+15:55:50.302 [main] INFO  Git_Versioning - Commit Name: e7408a73980c73e6d214b0a7531cf4e302080aab
+15:55:50.303 [main] INFO  Git_Versioning - commit success
+15:55:51.996 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions e7408a73980c73e6d214b0a7531cf4e302080aab, f96e9477ed3b709d6203a34f129a7c40f2f93469 with base f96e9477ed3b709d6203a34f129a7c40f2f93469 using strategy recursive resulted in: Already-up-to-date. }
+15:55:51.997 [main] INFO  Git_Versioning - pulled & merged
+15:56:01.839 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@47c81abf
+15:56:12.329 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@1cf56a1c
+15:56:22.517 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@b86de0d
+15:56:32.565 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@70e38ce1
+15:57:50.649 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3532316919889755761
+15:58:00.507 [main] INFO  Git_Versioning - Is Using proxy: true
+15:58:02.498 [main] INFO  Git_Versioning - proxy type : HTTP
+15:58:02.499 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.38
+15:58:02.499 [main] INFO  Git_Versioning - proxy port : 3128
+15:58:05.819 [main] INFO  Git_Versioning - Branches Fetched successfully
+16:11:59.092 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl4692108987144072575
+16:12:23.192 [main] INFO  Git_Versioning - Is Using proxy: true
+16:14:57.865 [main] INFO  Git_Versioning - Is Using proxy: true
+16:15:53.210 [main] INFO  Git_Versioning - proxy type : HTTP
+16:15:53.210 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.38
+16:15:53.211 [main] INFO  Git_Versioning - proxy port : 3128
+16:15:57.680 [main] INFO  Git_Versioning - Branches Fetched successfully
+16:21:50.118 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl282876754046086216
+16:22:47.689 [main] INFO  Git_Versioning - Is Using proxy: true
+16:49:34.463 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3821163955714011214
+16:56:18.197 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1032693198685562806
+16:56:27.076 [main] INFO  Git_Versioning - Is Using proxy: true
+16:56:28.323 [main] INFO  Git_Versioning - proxy type : HTTP
+16:56:28.323 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.38
+16:56:28.323 [main] INFO  Git_Versioning - proxy port : 3128
+16:56:29.664 [main] INFO  Git_Versioning - Branches Fetched successfully
+16:58:21.475 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1267608125753750618
+16:58:42.430 [main] INFO  Git_Versioning - Is Using proxy: true
+16:58:43.453 [main] INFO  Git_Versioning - proxy type : HTTP
+16:58:43.454 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.38
+16:58:43.454 [main] INFO  Git_Versioning - proxy port : 3128
+16:58:44.731 [main] INFO  Git_Versioning - Branches Fetched successfully
+16:59:00.199 [main] INFO  Git_Versioning - Is Using proxy: true
+16:59:01.278 [main] INFO  Git_Versioning - proxy type : HTTP
+16:59:01.278 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.38
+16:59:01.278 [main] INFO  Git_Versioning - proxy port : 3128
+16:59:02.814 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:02:03.016 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8399061535937159176
+18:03:42.636 [main] INFO  Git_Versioning - Is Using proxy: true
+18:09:56.630 [main] INFO  Git_Versioning - proxy type : HTTP
+18:09:56.630 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.38
+18:09:56.631 [main] INFO  Git_Versioning - proxy port : 3128
+18:09:59.008 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:10:31.868 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2148962348454558621
+18:10:42.239 [main] INFO  Git_Versioning - Is Using proxy: true
+18:10:43.448 [main] INFO  Git_Versioning - proxy type : HTTP
+18:10:43.448 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.38
+18:10:43.448 [main] INFO  Git_Versioning - proxy port : 3128
+18:10:45.050 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:20:52.746 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6611478205304367970
+18:21:37.481 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:21:37.482 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+18:22:25.631 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl718888119957774501
+18:22:38.341 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:22:50.970 [main] INFO  Git_Versioning - cloning from repository
+18:22:52.580 [main] INFO  Git_Versioning - repository cloned
+18:22:52.598 [main] INFO  Git_Versioning - Old branch: master, New Branch: proxy_branch
+18:22:52.598 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+18:22:52.762 [main] INFO  Git_Versioning - Branch : proxy_branch checkout & merged
+18:22:52.769 [main] INFO  Git_Versioning - File write success
+18:22:52.769 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+18:22:52.800 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+18:22:52.807 [main] INFO  Git_Versioning - [SSH.txt]
+18:22:52.823 [main] INFO  Git_Versioning - No change
+18:22:53.554 [main] INFO  Git_Versioning - Commit message: Commit on 15/05/2023 18:22:52 using UNP
+18:22:53.576 [main] INFO  Git_Versioning - Commit Name: 9bb10882a7d7fcf68f29b17d30d9b49c94fa5ab8
+18:22:53.576 [main] INFO  Git_Versioning - commit success
+18:22:54.303 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 9bb10882a7d7fcf68f29b17d30d9b49c94fa5ab8, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+18:22:54.304 [main] INFO  Git_Versioning - pulled & merged
+18:23:00.627 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3cce57c7
+18:23:06.749 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@b86de0d
+18:23:13.576 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@70e38ce1
+18:23:19.801 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7de62196
+18:23:43.503 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7036574588273587027
+18:23:50.595 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:23:55.761 [main] INFO  Git_Versioning - cloning from repository
+18:23:56.904 [main] INFO  Git_Versioning - repository cloned
+18:23:56.911 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+18:23:56.913 [main] INFO  Git_Versioning - File write success
+18:23:56.913 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+18:23:56.937 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+18:23:56.944 [main] INFO  Git_Versioning - [SSH.txt]
+18:23:56.957 [main] INFO  Git_Versioning - No change
+18:23:58.865 [main] INFO  Git_Versioning - Commit message: Commit on 15/05/2023 18:23:56 using UNP
+18:23:58.888 [main] INFO  Git_Versioning - Commit Name: 9b72872ab72582ca674ce34f367ae5a6fb6d1655
+18:23:58.888 [main] INFO  Git_Versioning - commit success
+18:23:59.412 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 9b72872ab72582ca674ce34f367ae5a6fb6d1655, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+18:23:59.413 [main] INFO  Git_Versioning - pulled & merged
+18:24:05.448 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@53f3bdbd
+18:24:11.398 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7283d3eb
+18:25:55.048 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6293239772822540784
+18:26:02.838 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:26:06.216 [main] INFO  Git_Versioning - cloning from repository
+18:26:07.768 [main] INFO  Git_Versioning - repository cloned
+18:26:07.774 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+18:26:07.776 [main] INFO  Git_Versioning - File write success
+18:26:07.776 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+18:26:07.800 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+18:26:07.806 [main] INFO  Git_Versioning - [SSH.txt]
+18:26:07.819 [main] INFO  Git_Versioning - No change
+18:26:08.594 [main] INFO  Git_Versioning - Commit message: Commit on 15/05/2023 18:26:07 using UNP
+18:26:08.616 [main] INFO  Git_Versioning - Commit Name: 06a791d20f9b1b584cecefa2f368e0fe56f4c1d5
+18:26:08.617 [main] INFO  Git_Versioning - commit success
+18:26:09.362 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 06a791d20f9b1b584cecefa2f368e0fe56f4c1d5, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+18:26:09.363 [main] INFO  Git_Versioning - pulled & merged
+18:26:15.487 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@38af9828
+18:26:31.386 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl9037531604692084401
+18:26:34.635 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:26:34.635 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+18:26:58.723 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2270854708657623916
+18:27:03.487 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:27:03.488 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+18:27:31.005 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3571379905294192804
+18:27:33.699 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:27:33.699 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+18:43:47.140 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl862657371763397307
+18:43:56.448 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:43:56.448 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+18:44:25.560 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1308406831451135584
+18:44:28.773 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:44:28.773 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+18:44:40.966 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7681614402454847662
+18:44:44.018 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:44:44.019 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+18:45:48.578 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3619400977517431167
+18:45:51.616 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:45:51.616 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+18:46:55.880 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl467668461759347242
+18:47:00.161 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:47:00.161 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+18:48:56.587 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1507361106825416439
+18:49:00.339 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:49:00.340 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+18:50:08.725 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl9012177226745258815
+18:51:25.551 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:51:25.551 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+18:51:35.747 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5973450888697722349
+18:51:39.031 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:51:39.031 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+18:52:09.318 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3553816562412481071
+18:52:19.327 [main] INFO  Git_Versioning - Is Using proxy: true
+18:52:20.395 [main] INFO  Git_Versioning - proxy type : HTTP
+18:52:20.395 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+18:52:20.396 [main] INFO  Git_Versioning - proxy port : 8001
+18:52:22.197 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:52:30.928 [main] INFO  Git_Versioning - cloning from repository
+18:52:32.864 [main] INFO  Git_Versioning - repository cloned
+18:52:32.881 [main] INFO  Git_Versioning - Old branch: master, New Branch: proxy_branch
+18:52:32.881 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+18:52:32.886 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@2657d4dd
+18:52:53.601 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2764424053138979678
+18:52:56.568 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:52:56.568 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+18:55:22.947 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1323195712830386434
+18:55:25.906 [main] ERROR Git_Versioning - Could not connect using given parameters 
+18:55:25.906 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: 407 Proxy Authentication Required
+18:56:38.545 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1368220193468452498
+18:56:42.862 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:56:52.688 [main] INFO  Git_Versioning - cloning from repository
+18:56:53.507 [main] INFO  Git_Versioning - repository cloned
+18:56:53.514 [main] INFO  Git_Versioning - Old branch: master, New Branch: master
+18:56:53.516 [main] INFO  Git_Versioning - File write success
+18:56:53.516 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+18:56:53.522 [main] INFO  Git_Versioning - Untracked: SSH.txt
+18:56:53.527 [main] INFO  Git_Versioning - []
+18:56:53.545 [main] INFO  Git_Versioning - No change
+18:56:54.521 [main] INFO  Git_Versioning - Commit message: Commit on 15/05/2023 18:56:53 using UNP
+18:56:54.545 [main] INFO  Git_Versioning - Commit Name: 558b669682a964d49aa4fa5496b2597df393ee44
+18:56:54.545 [main] INFO  Git_Versioning - commit success
+18:56:55.830 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 558b669682a964d49aa4fa5496b2597df393ee44, f96e9477ed3b709d6203a34f129a7c40f2f93469 with base 0000000000000000000000000000000000000000 using strategy recursive resulted in: Merged. }
+18:56:55.830 [main] INFO  Git_Versioning - pulled & merged
+18:56:58.009 [main] INFO  Git_Versioning - PushResult: org.eclipse.jgit.transport.PushResult@72ade7e3
+18:56:58.009 [main] INFO  Git_Versioning - push success
+18:57:18.298 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6642980045949537720
+18:57:24.356 [main] INFO  Git_Versioning - Is Using proxy: true
+18:57:25.460 [main] INFO  Git_Versioning - proxy type : HTTP
+18:57:25.460 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+18:57:25.460 [main] INFO  Git_Versioning - proxy port : 8001
+18:57:26.900 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:57:29.168 [main] INFO  Git_Versioning - cloning from repository
+18:57:30.625 [main] INFO  Git_Versioning - repository cloned
+18:57:30.632 [main] INFO  Git_Versioning - Old branch: master, New Branch: master
+18:57:30.634 [main] INFO  Git_Versioning - File write success
+18:57:30.634 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+18:57:30.650 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+18:57:30.657 [main] INFO  Git_Versioning - [SSH.txt]
+18:57:30.669 [main] INFO  Git_Versioning - No change
+18:57:31.560 [main] INFO  Git_Versioning - Commit message: Commit on 15/05/2023 18:57:30 using UNP
+18:57:31.583 [main] INFO  Git_Versioning - Commit Name: c63dffa5329d5ff37cb323ca08c1b84cdde717f0
+18:57:31.583 [main] INFO  Git_Versioning - commit success
+18:57:32.166 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions c63dffa5329d5ff37cb323ca08c1b84cdde717f0, f96e9477ed3b709d6203a34f129a7c40f2f93469 with base f96e9477ed3b709d6203a34f129a7c40f2f93469 using strategy recursive resulted in: Already-up-to-date. }
+18:57:32.167 [main] INFO  Git_Versioning - pulled & merged
+18:57:38.437 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7283d3eb
+18:57:44.743 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@776a6d9b
+18:57:50.786 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4c5ae43b
+18:57:57.002 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@81d9a72
+19:20:36.564 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl852516015328704972
+19:20:44.331 [main] INFO  Git_Versioning - Is Using proxy: true
+19:20:45.444 [main] INFO  Git_Versioning - proxy type : HTTP
+19:20:45.444 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+19:20:45.444 [main] INFO  Git_Versioning - proxy port : 8001
+19:20:46.943 [main] INFO  Git_Versioning - Branches Fetched successfully
+10:44:58.588 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1582464838033228979
+10:49:36.461 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7448083541680711107
+10:53:30.797 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl9045807613403724713
+10:55:20.704 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1363089848462888441
+10:56:37.642 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5259424509223968317
+10:56:55.307 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl232603064262652926
+11:00:02.391 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8599953726499260903
+11:01:12.849 [main] ERROR Git_Versioning - Could not connect using given parameters 
+11:01:12.849 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: connection failed
+11:02:29.961 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl4658923876397088899
+11:02:59.107 [main] ERROR Git_Versioning - Could not connect using given parameters 
+11:02:59.107 [main] ERROR Git_Versioning - https://github.com/ApurvaHub123/proxy_repo2.git: connection failed
+11:08:12.757 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3225832821546575291
+11:09:01.406 [main] INFO  Git_Versioning - Is Using proxy: true
+11:12:03.216 [main] INFO  Git_Versioning - Is Using proxy: true
+11:12:13.544 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2923223054869766865
+11:12:24.149 [main] INFO  Git_Versioning - Is Using proxy: true
+11:12:37.472 [main] INFO  Git_Versioning - Is Using proxy: true
+11:12:46.534 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6193731137452722414
+11:12:57.688 [main] INFO  Git_Versioning - Is Using proxy: true
+11:14:49.913 [main] INFO  Git_Versioning - Is Using proxy: true
+11:14:56.817 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl55901112461720192
+11:15:12.634 [main] INFO  Git_Versioning - Is Using proxy: true
+11:20:02.349 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1278537315197992481
+11:20:17.120 [main] INFO  Git_Versioning - Is Using proxy: true
+11:21:16.854 [main] INFO  Git_Versioning - proxy type : HTTP
+11:21:16.854 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+11:21:16.854 [main] INFO  Git_Versioning - proxy port : 8001
+11:21:18.557 [main] INFO  Git_Versioning - Branches Fetched successfully
+11:21:32.050 [main] INFO  Git_Versioning - cloning from repository
+11:21:33.219 [main] INFO  Git_Versioning - repository cloned
+11:21:33.241 [main] INFO  Git_Versioning - Old branch: master, New Branch: proxy_branch
+11:21:33.242 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+11:21:33.309 [main] INFO  Git_Versioning - Branch : proxy_branch created
+11:21:33.315 [main] INFO  Git_Versioning - File write success
+11:21:33.315 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+11:21:33.329 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+11:21:33.335 [main] INFO  Git_Versioning - [SSH.txt]
+11:21:33.393 [main] INFO  Git_Versioning - No change
+11:21:34.227 [main] INFO  Git_Versioning - Commit message: Commit on 16/05/2023 11:21:33 using UNP
+11:21:34.252 [main] INFO  Git_Versioning - Commit Name: 116aab209fbf57a5fd4a2e87346769d69182b6c6
+11:21:34.252 [main] INFO  Git_Versioning - commit success
+11:21:35.047 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 116aab209fbf57a5fd4a2e87346769d69182b6c6, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 43bb77501f3396a008738c06102bd8cb9deb5235 using strategy recursive resulted in: Conflicting. }
+11:21:35.095 [main] INFO  Git_Versioning - pulled & merged
+11:21:41.139 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@43b9fd5
+11:21:47.119 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@54eb2b70
+11:21:53.074 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@1838ccb8
+11:21:59.061 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4241e0f4
+11:22:26.402 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7280927670707451132
+11:22:36.905 [main] INFO  Git_Versioning - Is Using proxy: true
+11:24:48.100 [main] INFO  Git_Versioning - proxy type : HTTP
+11:24:48.100 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+11:24:48.100 [main] INFO  Git_Versioning - proxy port : 8001
+11:24:50.019 [main] INFO  Git_Versioning - Branches Fetched successfully
+11:26:46.559 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3800962231007635851
+11:26:56.666 [main] INFO  Git_Versioning - Is Using proxy: true
+11:27:47.548 [main] INFO  Git_Versioning - Is Using proxy: true
+11:27:52.969 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5902172122322394191
+11:28:01.369 [main] INFO  Git_Versioning - Is Using proxy: true
+11:28:32.867 [main] INFO  Git_Versioning - Is Using proxy: true
+11:28:38.816 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5090415877043451774
+11:28:46.299 [main] INFO  Git_Versioning - Is Using proxy: true
+11:29:01.371 [main] INFO  Git_Versioning - proxy type : HTTP
+11:29:01.371 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+11:29:01.371 [main] INFO  Git_Versioning - proxy port : 8001
+11:29:03.044 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:33:23.578 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7702649384772180313
+12:33:34.151 [main] INFO  Git_Versioning - Is Using proxy: true
+12:34:44.423 [main] INFO  Git_Versioning - proxy type : HTTP
+12:34:45.972 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+12:34:46.755 [main] INFO  Git_Versioning - proxy port : 8001
+12:35:07.611 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:35:20.907 [main] INFO  Git_Versioning - cloning from repository
+12:35:22.165 [main] INFO  Git_Versioning - repository cloned
+12:35:22.191 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+12:35:22.193 [main] INFO  Git_Versioning - File write success
+12:35:22.193 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+12:35:22.224 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+12:35:22.231 [main] INFO  Git_Versioning - [SSH.txt]
+12:35:22.265 [main] INFO  Git_Versioning - No change
+12:35:23.379 [main] INFO  Git_Versioning - Commit message: Commit on 16/05/2023 12:35:22 using UNP
+12:35:23.405 [main] INFO  Git_Versioning - Commit Name: 7e0879312cc7afeff3dbdc547bdeaa69235e2f9b
+12:35:23.405 [main] INFO  Git_Versioning - commit success
+12:35:24.094 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 7e0879312cc7afeff3dbdc547bdeaa69235e2f9b, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+12:35:24.094 [main] INFO  Git_Versioning - pulled & merged
+12:35:30.697 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@24c22fe
+12:35:37.218 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@16c069df
+12:35:43.489 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@205d38da
+12:35:49.660 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@189cbd7c
+12:42:37.103 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5710472138281588528
+12:42:48.659 [main] INFO  Git_Versioning - Is Using proxy: true
+12:42:49.941 [main] INFO  Git_Versioning - proxy type : HTTP
+12:42:49.941 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+12:42:49.941 [main] INFO  Git_Versioning - proxy port : 8001
+12:42:52.118 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:42:55.827 [main] INFO  Git_Versioning - cloning from repository
+12:42:57.723 [main] INFO  Git_Versioning - repository cloned
+12:42:57.730 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+12:42:57.732 [main] INFO  Git_Versioning - File write success
+12:42:57.732 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+12:42:57.757 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+12:42:57.763 [main] INFO  Git_Versioning - [SSH.txt]
+12:42:57.777 [main] INFO  Git_Versioning - No change
+12:42:58.507 [main] INFO  Git_Versioning - Commit message: Commit on 16/05/2023 12:42:57 using UNP
+12:42:58.530 [main] INFO  Git_Versioning - Commit Name: cab140ae6403dfb7b9e1dbdf71042d9635feb47f
+12:42:58.530 [main] INFO  Git_Versioning - commit success
+12:42:59.330 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions cab140ae6403dfb7b9e1dbdf71042d9635feb47f, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+12:42:59.331 [main] INFO  Git_Versioning - pulled & merged
+12:43:06.149 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@638ef7ed
+12:44:01.193 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl4813799562934515128
+12:44:09.706 [main] INFO  Git_Versioning - Is Using proxy: true
+12:44:10.771 [main] INFO  Git_Versioning - proxy type : HTTP
+12:44:10.771 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+12:44:10.771 [main] INFO  Git_Versioning - proxy port : 8001
+12:44:12.430 [main] INFO  Git_Versioning - Branches Fetched successfully
+12:44:15.736 [main] INFO  Git_Versioning - cloning from repository
+12:44:16.947 [main] INFO  Git_Versioning - repository cloned
+12:44:16.953 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+12:44:16.955 [main] INFO  Git_Versioning - File write success
+12:44:16.956 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+12:44:16.979 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+12:44:16.986 [main] INFO  Git_Versioning - [SSH.txt]
+12:44:16.999 [main] INFO  Git_Versioning - No change
+12:44:17.755 [main] INFO  Git_Versioning - Commit message: Commit on 16/05/2023 12:44:16 using UNP
+12:44:17.780 [main] INFO  Git_Versioning - Commit Name: 63ae86d249b0d22915ae9ce9ab636cda226e6576
+12:44:17.780 [main] INFO  Git_Versioning - commit success
+12:44:18.469 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 63ae86d249b0d22915ae9ce9ab636cda226e6576, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+12:44:18.469 [main] INFO  Git_Versioning - pulled & merged
+12:44:24.728 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@24105dc5
+12:44:31.206 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@e3b3b2f
+12:44:37.500 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@5038d0b5
+12:44:43.956 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4b8729ff
+12:59:41.798 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1102859812619070179
+12:59:52.635 [main] INFO  Git_Versioning - Is Using proxy: true
+12:59:54.084 [main] INFO  Git_Versioning - proxy type : HTTP
+12:59:54.084 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+12:59:54.084 [main] INFO  Git_Versioning - proxy port : 8001
+12:59:56.302 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:02:30.640 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2716581734259497809
+13:02:36.750 [main] INFO  Git_Versioning - Is Using proxy: true
+13:02:37.827 [main] INFO  Git_Versioning - proxy type : HTTP
+13:02:37.827 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+13:02:37.828 [main] INFO  Git_Versioning - proxy port : 8001
+13:02:40.167 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:02:51.706 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8559170108218626548
+13:02:57.462 [main] INFO  Git_Versioning - Is Using proxy: true
+13:02:59.738 [main] INFO  Git_Versioning - proxy type : HTTP
+13:02:59.738 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+13:02:59.738 [main] INFO  Git_Versioning - proxy port : 8001
+13:03:01.574 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:03:05.952 [main] INFO  Git_Versioning - cloning from repository
+13:03:09.722 [main] INFO  Git_Versioning - repository cloned
+13:03:09.723 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7bd7d6d6
+13:03:09.724 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@239a307b
+13:03:09.726 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@2de56eb2
+13:03:09.726 [main] INFO  Git_Versioning - Commit Name: 
+13:03:09.726 [main] INFO  Git_Versioning - commit success
+13:03:10.985 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 0000000000000000000000000000000000000000, f96e9477ed3b709d6203a34f129a7c40f2f93469 with base f96e9477ed3b709d6203a34f129a7c40f2f93469 using strategy recursive resulted in: Fast-forward. }
+13:03:10.986 [main] INFO  Git_Versioning - pulled & merged
+13:03:17.819 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@475c9c31
+13:03:25.034 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@1807f5a7
+13:03:39.433 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl793158477750555679
+13:03:44.682 [main] INFO  Git_Versioning - Is Using proxy: true
+13:03:46.005 [main] INFO  Git_Versioning - proxy type : HTTP
+13:03:46.005 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+13:03:46.005 [main] INFO  Git_Versioning - proxy port : 8001
+13:03:47.808 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:03:50.496 [main] INFO  Git_Versioning - cloning from repository
+13:03:52.370 [main] INFO  Git_Versioning - repository cloned
+13:03:52.371 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7bd7d6d6
+13:03:52.372 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@239a307b
+13:03:52.373 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@2de56eb2
+13:03:52.373 [main] INFO  Git_Versioning - Commit Name: 
+13:03:52.373 [main] INFO  Git_Versioning - commit success
+13:03:53.913 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 0000000000000000000000000000000000000000, f96e9477ed3b709d6203a34f129a7c40f2f93469 with base f96e9477ed3b709d6203a34f129a7c40f2f93469 using strategy recursive resulted in: Fast-forward. }
+13:03:53.914 [main] INFO  Git_Versioning - pulled & merged
+13:04:00.631 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@475c9c31
+13:04:07.791 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@1807f5a7
+13:04:15.065 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7dfd3c81
+13:04:22.922 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7dfb0c0f
+13:05:25.867 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl5987908028668315339
+13:05:31.791 [main] INFO  Git_Versioning - Is Using proxy: true
+13:05:32.885 [main] INFO  Git_Versioning - proxy type : HTTP
+13:05:32.885 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+13:05:32.885 [main] INFO  Git_Versioning - proxy port : 8001
+13:05:34.735 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:05:37.027 [main] INFO  Git_Versioning - cloning from repository
+13:05:38.457 [main] INFO  Git_Versioning - repository cloned
+13:05:38.495 [main] INFO  Git_Versioning - Old branch: master, New Branch: proxy_branch
+13:05:38.495 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+13:05:38.524 [main] INFO  Git_Versioning - Branch : proxy_branch created
+13:05:38.529 [main] INFO  Git_Versioning - File write success
+13:05:38.529 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+13:05:38.541 [main] INFO  Git_Versioning - Untracked: SSH.txt
+13:05:38.549 [main] INFO  Git_Versioning - []
+13:05:38.566 [main] INFO  Git_Versioning - No change
+13:05:48.299 [main] INFO  Git_Versioning - Commit message: Commit on 16/05/2023 13:05:38 using UNP
+13:05:48.322 [main] INFO  Git_Versioning - Commit Name: c35ae886070ef9de4c2b8605b100060376c3a52c
+13:05:48.322 [main] INFO  Git_Versioning - commit success
+13:05:49.006 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions c35ae886070ef9de4c2b8605b100060376c3a52c, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 43bb77501f3396a008738c06102bd8cb9deb5235 using strategy recursive resulted in: Conflicting. }
+13:05:49.054 [main] INFO  Git_Versioning - pulled & merged
+13:05:56.134 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@39b43d60
+13:06:02.523 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@51a9ad5e
+13:16:27.638 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8006181192054436662
+13:16:32.523 [main] INFO  Git_Versioning - Is Using proxy: true
+13:16:33.747 [main] INFO  Git_Versioning - proxy type : HTTP
+13:16:33.748 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+13:16:33.748 [main] INFO  Git_Versioning - proxy port : 8001
+13:16:35.940 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:16:38.851 [main] INFO  Git_Versioning - cloning from repository
+13:16:40.195 [main] INFO  Git_Versioning - repository cloned
+13:16:40.211 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+13:16:40.213 [main] INFO  Git_Versioning - File write success
+13:16:40.213 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+13:16:40.237 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+13:16:40.243 [main] INFO  Git_Versioning - [SSH.txt]
+13:16:40.273 [main] INFO  Git_Versioning - No change
+13:16:41.547 [main] INFO  Git_Versioning - Commit message: Commit on 16/05/2023 13:16:40 using UNP
+13:16:41.573 [main] INFO  Git_Versioning - Commit Name: a1a3eaa72a5b91e735c88185d7e04816c2a143b9
+13:16:41.573 [main] INFO  Git_Versioning - commit success
+13:16:42.208 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions a1a3eaa72a5b91e735c88185d7e04816c2a143b9, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+13:16:42.208 [main] INFO  Git_Versioning - pulled & merged
+13:18:08.907 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6406821144571164136
+13:18:15.197 [main] INFO  Git_Versioning - Is Using proxy: true
+13:18:16.786 [main] INFO  Git_Versioning - proxy type : HTTP
+13:18:16.787 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+13:18:16.787 [main] INFO  Git_Versioning - proxy port : 8001
+13:18:19.235 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:18:21.250 [main] INFO  Git_Versioning - cloning from repository
+13:18:22.901 [main] INFO  Git_Versioning - repository cloned
+13:18:22.908 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+13:18:22.910 [main] INFO  Git_Versioning - File write success
+13:18:22.910 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+13:18:22.937 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+13:18:22.944 [main] INFO  Git_Versioning - [SSH.txt]
+13:18:22.957 [main] INFO  Git_Versioning - No change
+13:18:23.851 [main] INFO  Git_Versioning - Commit message: Commit on 16/05/2023 13:18:22 using UNP
+13:18:23.877 [main] INFO  Git_Versioning - Commit Name: 570c91f97c1f80aac5702ec4a1c6133fa793e26d
+13:18:23.877 [main] INFO  Git_Versioning - commit success
+13:18:24.692 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 570c91f97c1f80aac5702ec4a1c6133fa793e26d, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+13:18:24.692 [main] INFO  Git_Versioning - pulled & merged
+13:19:00.496 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@791d1f8b
+13:20:56.096 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2664225743046274297
+13:21:01.929 [main] INFO  Git_Versioning - Is Using proxy: true
+13:21:03.160 [main] INFO  Git_Versioning - proxy type : HTTP
+13:21:03.160 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+13:21:03.160 [main] INFO  Git_Versioning - proxy port : 8001
+13:21:05.050 [main] INFO  Git_Versioning - Branches Fetched successfully
+13:21:08.475 [main] INFO  Git_Versioning - cloning from repository
+13:21:09.691 [main] INFO  Git_Versioning - repository cloned
+13:21:09.699 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+13:21:09.701 [main] INFO  Git_Versioning - File write success
+13:21:09.702 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+13:21:09.726 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+13:21:09.733 [main] INFO  Git_Versioning - [SSH.txt]
+13:21:09.747 [main] INFO  Git_Versioning - No change
+13:21:10.403 [main] INFO  Git_Versioning - Commit message: Commit on 16/05/2023 13:21:09 using UNP
+13:21:10.428 [main] INFO  Git_Versioning - Commit Name: 13283399ff61444fb3be57060f853e0e6bcaa1d5
+13:21:10.429 [main] INFO  Git_Versioning - commit success
+13:21:10.995 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 13283399ff61444fb3be57060f853e0e6bcaa1d5, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+13:21:10.995 [main] INFO  Git_Versioning - pulled & merged
+13:21:37.545 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@791d1f8b
+14:48:42.172 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl7177627662254492185
+14:48:56.053 [main] INFO  Git_Versioning - Is Using proxy: true
+14:48:57.160 [main] INFO  Git_Versioning - proxy type : HTTP
+14:48:57.160 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+14:48:57.160 [main] INFO  Git_Versioning - proxy port : 8001
+14:48:58.655 [main] INFO  Git_Versioning - Branches Fetched successfully
+14:49:03.596 [main] INFO  Git_Versioning - cloning from repository
+14:49:04.722 [main] INFO  Git_Versioning - repository cloned
+14:49:04.740 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+14:49:04.743 [main] INFO  Git_Versioning - File write success
+14:49:04.743 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+14:49:04.780 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+14:49:04.787 [main] INFO  Git_Versioning - [SSH.txt]
+14:49:04.812 [main] INFO  Git_Versioning - No change
+14:49:05.387 [main] INFO  Git_Versioning - Commit message: Commit on 16/05/2023 14:49:04 using UNP
+14:49:05.411 [main] INFO  Git_Versioning - Commit Name: bde7eb3385c9d0bb6ab29734c1c283c5157c8fb4
+14:49:05.411 [main] INFO  Git_Versioning - commit success
+14:49:05.993 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions bde7eb3385c9d0bb6ab29734c1c283c5157c8fb4, 4ecdd4bdf4f191d4e23df44f6de7273273585e2e with base 4ecdd4bdf4f191d4e23df44f6de7273273585e2e using strategy recursive resulted in: Already-up-to-date. }
+14:49:05.993 [main] INFO  Git_Versioning - pulled & merged
+14:49:12.389 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3e62d773
+14:49:18.578 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@536dbea0
+14:49:24.449 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@1cf56a1c
+14:49:45.600 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8316817948348057801
+14:49:52.570 [main] INFO  Git_Versioning - Is Using proxy: true
+14:49:53.527 [main] INFO  Git_Versioning - proxy type : HTTP
+14:49:53.527 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+14:49:53.527 [main] INFO  Git_Versioning - proxy port : 8001
+14:49:54.946 [main] INFO  Git_Versioning - Branches Fetched successfully
+14:50:00.339 [main] INFO  Git_Versioning - cloning from repository
+14:50:02.701 [main] INFO  Git_Versioning - repository cloned
+14:50:02.703 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@50378a4
+14:50:02.703 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@79207381
+14:50:02.705 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7a6d7e92
+14:50:02.705 [main] INFO  Git_Versioning - Commit Name: 
+14:50:02.705 [main] INFO  Git_Versioning - commit success
+14:50:04.051 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 0000000000000000000000000000000000000000, f96e9477ed3b709d6203a34f129a7c40f2f93469 with base f96e9477ed3b709d6203a34f129a7c40f2f93469 using strategy recursive resulted in: Fast-forward. }
+14:50:04.052 [main] INFO  Git_Versioning - pulled & merged
+14:50:19.397 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6864087691701622831
+14:50:28.043 [main] INFO  Git_Versioning - Is Using proxy: true
+14:50:29.046 [main] INFO  Git_Versioning - proxy type : HTTP
+14:50:29.046 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+14:50:29.046 [main] INFO  Git_Versioning - proxy port : 8001
+14:50:30.700 [main] INFO  Git_Versioning - Branches Fetched successfully
+14:50:34.748 [main] INFO  Git_Versioning - cloning from repository
+14:50:36.137 [main] INFO  Git_Versioning - repository cloned
+14:50:36.138 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@50378a4
+14:50:36.139 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@79207381
+14:50:36.141 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7a6d7e92
+14:50:36.141 [main] INFO  Git_Versioning - Commit Name: 
+14:50:36.141 [main] INFO  Git_Versioning - commit success
+14:50:37.225 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 0000000000000000000000000000000000000000, f96e9477ed3b709d6203a34f129a7c40f2f93469 with base f96e9477ed3b709d6203a34f129a7c40f2f93469 using strategy recursive resulted in: Fast-forward. }
+14:50:37.225 [main] INFO  Git_Versioning - pulled & merged
+14:50:43.361 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@2d29b4ee
+14:52:04.329 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1525834116750864103
+14:52:15.478 [main] INFO  Git_Versioning - Is Using proxy: true
+14:52:16.504 [main] INFO  Git_Versioning - proxy type : HTTP
+14:52:16.504 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+14:52:16.504 [main] INFO  Git_Versioning - proxy port : 8001
+14:52:16.726 [main] INFO  Git_Versioning - Old branch: master, New Branch: null
+14:52:16.727 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+14:52:16.758 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4c39bec8
+14:52:51.545 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl9113146412976705682
+14:53:14.396 [main] INFO  Git_Versioning - Is Using proxy: true
+14:53:15.614 [main] INFO  Git_Versioning - proxy type : HTTP
+14:53:15.614 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+14:53:15.614 [main] INFO  Git_Versioning - proxy port : 8001
+14:53:17.263 [main] INFO  Git_Versioning - Branches Fetched successfully
+14:53:26.692 [main] INFO  Git_Versioning - Old branch: master, New Branch: master
+14:53:26.692 [main] INFO  Git_Versioning - cloning from repository
+14:53:28.082 [main] INFO  Git_Versioning - repository cloned
+14:53:28.084 [main] INFO  Git_Versioning - File write success
+14:53:28.085 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+14:53:28.100 [main] INFO  Git_Versioning - Untracked: SSH.txt
+14:53:28.107 [main] INFO  Git_Versioning - []
+14:53:28.124 [main] INFO  Git_Versioning - No change
+14:53:29.196 [main] INFO  Git_Versioning - Commit message: Commit on 16/05/2023 14:53:28 using UNP
+14:53:29.217 [main] INFO  Git_Versioning - Commit Name: f545fac37e6b812beb23680f68765f6297b324ee
+14:53:29.217 [main] INFO  Git_Versioning - commit success
+14:53:29.733 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions f545fac37e6b812beb23680f68765f6297b324ee, f96e9477ed3b709d6203a34f129a7c40f2f93469 with base f96e9477ed3b709d6203a34f129a7c40f2f93469 using strategy recursive resulted in: Already-up-to-date. }
+14:53:29.733 [main] INFO  Git_Versioning - pulled & merged
+14:53:35.984 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4c2bb6e0
+14:53:42.109 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3f1d2e23
+14:53:48.064 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3cce57c7
+14:53:53.958 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@35b74c5c
+14:55:58.934 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2130854344164499137
+14:56:19.254 [main] INFO  Git_Versioning - Is Using proxy: true
+14:56:19.644 [main] INFO  Git_Versioning - proxy type : HTTP
+14:56:19.644 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+14:56:19.644 [main] INFO  Git_Versioning - proxy port : 8001
+14:56:44.653 [main] INFO  Git_Versioning - Branches Fetched successfully
+14:56:50.224 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@1a75e76a
+14:56:50.224 [main] INFO  Git_Versioning - cloning from repository
+14:57:18.271 [main] INFO  Git_Versioning - repository cloned
+14:57:18.272 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@5884a914
+14:57:18.274 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@79207381
+14:57:18.274 [main] INFO  Git_Versioning - Commit Name: 
+14:57:18.274 [main] INFO  Git_Versioning - commit success
+14:57:34.363 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@475c9c31
+14:57:34.364 [main] INFO  Git_Versioning - pulled & merged
+14:59:38.913 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6582184942220739812
+14:59:48.691 [main] ERROR Git_Versioning - Could not connect using given parameters 
+14:59:48.691 [main] ERROR Git_Versioning - https://Apurvagawande@bitbucket.org/Apurvagawande/versioning_repo.git: 407 Proxy Authentication Required
+14:59:53.031 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl3694877110074686079
+14:59:58.360 [main] INFO  Git_Versioning - Is Using proxy: true
+14:59:58.404 [main] INFO  Git_Versioning - proxy type : HTTP
+14:59:58.404 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+14:59:58.405 [main] INFO  Git_Versioning - proxy port : 8001
+14:59:58.874 [main] ERROR Git_Versioning - Could not connect using given parameters 
+14:59:58.874 [main] ERROR Git_Versioning - https://Apurvagawande@bitbucket.org/Apurvagawande/versioning_repo.git: 503 Service Unavailable
+15:29:33.417 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl8245501617315293544
+15:29:40.703 [main] INFO  Git_Versioning - Is Using proxy: true
+15:29:41.697 [main] INFO  Git_Versioning - proxy type : HTTP
+15:29:41.697 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+15:29:41.697 [main] INFO  Git_Versioning - proxy port : 8001
+15:29:43.271 [main] INFO  Git_Versioning - Branches Fetched successfully
+15:30:36.644 [main] INFO  Git_Versioning - Old branch: master, New Branch: master
+15:30:36.644 [main] INFO  Git_Versioning - cloning from repository
+15:30:38.007 [main] INFO  Git_Versioning - repository cloned
+15:30:38.010 [main] INFO  Git_Versioning - File write success
+15:30:38.010 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+15:30:38.047 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+15:30:38.053 [main] INFO  Git_Versioning - [SSH.txt]
+15:30:38.079 [main] INFO  Git_Versioning - No change
+15:30:39.163 [main] INFO  Git_Versioning - Commit message: Commit on 16/05/2023 15:30:38 using UNP
+15:30:39.185 [main] INFO  Git_Versioning - Commit Name: fb3ca304a4e1f6fbaa32927f0fc491645d18dca6
+15:30:39.185 [main] INFO  Git_Versioning - commit success
+15:30:39.716 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions fb3ca304a4e1f6fbaa32927f0fc491645d18dca6, f96e9477ed3b709d6203a34f129a7c40f2f93469 with base f96e9477ed3b709d6203a34f129a7c40f2f93469 using strategy recursive resulted in: Already-up-to-date. }
+15:30:39.716 [main] INFO  Git_Versioning - pulled & merged
+15:30:45.800 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4c2bb6e0
+15:30:51.975 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3f1d2e23
+18:09:10.450 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl1925856446990059916
+18:09:26.430 [main] INFO  Git_Versioning - Is Using proxy: true
+18:09:27.440 [main] INFO  Git_Versioning - proxy type : HTTP
+18:09:27.440 [main] INFO  Git_Versioning - proxy hostname : 192.168.100.31
+18:09:27.440 [main] INFO  Git_Versioning - proxy port : 8001
+18:09:28.884 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:09:39.016 [main] INFO  Git_Versioning - Old branch: master, New Branch: proxy_branch
+18:09:39.016 [main] INFO  Git_Versioning - Git Branch changed. Checking out new branch
+18:09:39.065 [main] INFO  Git_Versioning - Branch : proxy_branch created
+18:09:39.065 [main] INFO  Git_Versioning - cloning from repository
+18:09:40.151 [main] INFO  Git_Versioning - repository cloned
+18:09:40.158 [main] INFO  Git_Versioning - File write success
+18:09:40.158 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+18:09:40.176 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+18:09:40.183 [main] INFO  Git_Versioning - [SSH.txt]
+18:09:40.207 [main] INFO  Git_Versioning - No change
+18:09:41.156 [main] INFO  Git_Versioning - Commit message: Commit on 16/05/2023 18:09:40 using UNP
+18:09:41.180 [main] INFO  Git_Versioning - Commit Name: 137e842e13e3394d8e9cac9dfd3820c92695acc7
+18:09:41.180 [main] INFO  Git_Versioning - commit success
+18:09:42.361 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 137e842e13e3394d8e9cac9dfd3820c92695acc7, 6ca93cc902d8da621b58f034cdf56c74556d3cdc with base f96e9477ed3b709d6203a34f129a7c40f2f93469 using strategy recursive resulted in: Conflicting. }
+18:09:42.409 [main] INFO  Git_Versioning - pulled & merged
+18:09:48.380 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@72ef8d15
+18:09:54.324 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@3fce8fd9
+18:10:00.331 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7b993c65
+18:10:07.627 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@4ea5b703
+18:11:49.836 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl2821314573475431640
+18:11:57.207 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:40:14.789 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl6832065478961068051
+18:40:24.506 [main] INFO  Git_Versioning - Branches Fetched successfully
+18:41:05.683 [main] INFO  Git_Versioning - Old branch: proxy_branch, New Branch: proxy_branch
+18:41:05.683 [main] INFO  Git_Versioning - cloning from repository
+18:41:07.160 [main] INFO  Git_Versioning - repository cloned
+18:41:07.162 [main] INFO  Git_Versioning - File write success
+18:41:07.162 [main] INFO  Git_Versioning - Sample file created at location: D:\GITHUB_PRO_MAX\SSH.txt
+18:41:07.192 [main] INFO  Git_Versioning - Uncommitted: SSH.txt
+18:41:07.198 [main] INFO  Git_Versioning - [SSH.txt]
+18:41:07.229 [main] INFO  Git_Versioning - No change
+18:41:07.837 [main] INFO  Git_Versioning - Commit message: Commit on 16/05/2023 18:41:07 using UNP
+18:41:07.860 [main] INFO  Git_Versioning - Commit Name: 6c348ab9fce9fb83ff02bc7c1742f2b07bfdb8cc
+18:41:07.860 [main] INFO  Git_Versioning - commit success
+18:41:08.418 [main] INFO  Git_Versioning - MERGE_RESULT = {Merge of revisions 6c348ab9fce9fb83ff02bc7c1742f2b07bfdb8cc, 6ca93cc902d8da621b58f034cdf56c74556d3cdc with base 6ca93cc902d8da621b58f034cdf56c74556d3cdc using strategy recursive resulted in: Already-up-to-date. }
+18:41:08.418 [main] INFO  Git_Versioning - pulled & merged
+18:41:14.575 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@7dfd3c81
+18:41:20.671 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@169bb4dd
+18:41:26.812 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@6cd24612
+18:41:34.508 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@d2de489

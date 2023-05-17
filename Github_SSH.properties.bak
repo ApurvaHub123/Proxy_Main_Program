@@ -1,0 +1,37 @@
+##### UNP ###
+provider = GitHub
+authType = UNP
+username = ApurvaHub123
+remoteUrl = https://github.com/ApurvaHub123/Repo_test.git
+localDirPath = D:\\GitHub_PROX\\VersionControl
+##### End ####
+
+#### UNP ###
+#provider = Bitbucket
+#authType = UNP
+#username = Apurvagawande
+#remoteUrl =https://Apurvagawande@bitbucket.org/Apurvagawande/versioning_repo.git
+#localDirPath = D:\\Bitbucket_PRO\\VersionControl
+#### End ####
+
+#### SSH ####
+#provider = gitHub
+#authType = SSH
+#remoteUrl = git@github.com:ApurvaHub123/Repo_test.git
+#localDirPath = D:\\GitHub_Proxy\\VersionControl_Proxy
+#sshPrivateKey = C:\\Users\\ApurvaGawande\\.ssh\\id_rsa
+#### End ####
+
+### Proxy ###
+useProxy = true
+proxyHost = squidproxy
+proxyPort = 3128
+proxyUsername = proxyuser
+#useSystemProxies = true
+### End ###
+
+### properties ###
+#properties=https_proxy=http://192.168.100.31:3128
+properties=https.proxyHost=192.168.100.31,https.proxyPort=3128,https.proxyUser=proxyuser,https.sslVerify=false,java.net.useSystemProxies=false,-Djdk.http.auth.tunneling.disabledSchemes=,-Djdk.http.auth.proxying.disabledSchemes=
+
+### End ###
