@@ -615,6 +615,7 @@ public class Utils {
 	}
 
 	public boolean push(GitVO gitVo) {
+		System.out.println("Pushing.......");
 		Git git2 = null;
 		boolean result = false;
 		File file = new File(Constants.LOCAL_DIRECTORY_PATH);
