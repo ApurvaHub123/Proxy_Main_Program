@@ -2048,3 +2048,7 @@
 18:41:20.671 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@169bb4dd
 18:41:26.812 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@6cd24612
 18:41:34.508 [main] ERROR Git_Versioning - [Ljava.lang.StackTraceElement;@d2de489
+10:47:38.744 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl61249651908666012
+10:47:47.652 [main] INFO  Git_Versioning - Branches Fetched successfully
+10:48:08.689 [main] INFO  Git_Versioning - Temporary directory created : C:\Users\APURVA~1\AppData\Local\Temp\tempVersionControl4315567321462843789
+10:48:16.973 [main] INFO  Git_Versioning - Branches Fetched successfully
